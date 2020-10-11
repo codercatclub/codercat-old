@@ -2,9 +2,13 @@ import React from 'react';
 import projects from '../../constants/projects';
 import s from './index.module.css';
 
-const serverURL = process.env.REACT_APP_CODERCAT_SERVER_URL || '';
-const makeProjectLink = (route) =>
-  route.startsWith('http') ? route : `${serverURL}/${route}`;
+const serverURL = process.env.CODERCAT_SERVER_URL || '';
+
+if (!serverURL) {
+  console.log('[-] CODERCAT_SERVER_URL is not set. Projects links might not work.');
+}
+
+const makeProjectLink = (route) => route.startsWith('http') ? route : `${serverURL}/${route}`;
 
 const ProjectsView = () => {
   // Coder cat logo colors

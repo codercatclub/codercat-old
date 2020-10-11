@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "concurrently --kill-others-on-fail 'next dev' 'nodemon server.mjs'",
     "build": "next build && next export",
     "start": "next start"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "next": "9.5.5",
     "react": "16.13.1",
     "react-dom": "16.13.1"
