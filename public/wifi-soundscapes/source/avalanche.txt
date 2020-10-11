@@ -1,0 +1,1000 @@
+ 00:00:00.000000 498971us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -101dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.003635 504059us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:00.024395 524663us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.044699 545143us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.051822 551362us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.052099 553295us tsft wep bad-fcs 11.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Data IV:7255 Pad 20 KeyID 1
+ 00:00:00.054516 555119us tsft wep 1.0 Mb/s 2412 MHz 11g -87dBm signal -101dBm noise antenna 0 Data IV:43f Pad 20 KeyID 1
+ 00:00:00.055314 556561us tsft short preamble 6.0 Mb/s 2412 MHz 11g -91dBm signal -101dBm noise antenna 0 Acknowledgment RA:d8:8f:76:64:51:4c (oui Unknown) 
+ 00:00:00.056056 556897us tsft short preamble wep 2.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Data IV:8a7 Pad 20 KeyID 0
+ 00:00:00.056608 557689us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.058232 559298us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.058652 559733us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.085633 586102us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1[|802.11]
+ 00:00:00.095888 597093us tsft short preamble 6.0 Mb/s 2412 MHz 11g -91dBm signal -101dBm noise antenna 0 Acknowledgment RA:d8:8f:76:64:51:4c (oui Unknown) 
+ 00:00:00.102430 601372us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.109481 610705us tsft short preamble 6.0 Mb/s 2412 MHz 11g -91dBm signal -101dBm noise antenna 0 Acknowledgment RA:d8:8f:76:64:51:4c (oui Unknown) 
+ 00:00:00.116834 618077us tsft short preamble 6.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Acknowledgment RA:d8:8f:76:64:51:4c (oui Unknown) 
+ 00:00:00.126582 627062us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.140196 639753us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -101dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.147066 647543us tsft 1.0 Mb/s 2412 MHz 11g -96dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.154230 653763us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.167535 668023us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.188046 688503us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.204794 703772us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -101dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.208417 708857us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:00.228987 729462us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.249525 749942us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.269969 770423us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.290454 790904us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.307173 806173us tsft 1.0 Mb/s 2412 MHz 11g -85dBm signal -101dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.310833 811261us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:00.331413 831864us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.351874 852345us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.362904 862414us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.372359 872827us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.409580 908574us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.413246 913663us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:00.433797 934270us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -101dBm noise antenna 0 Probe Response ()[|802.11]
+ 00:00:00.447394 946956us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.454295 954749us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.461426 960965us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.469349 969977us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.474737 975230us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.495226 995709us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.511982 1010975us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -101dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.515607 1016067us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:00.536194 1036672us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.549864 1049357us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.597640 1098115us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.614412 1113376us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -101dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.618068 1118473us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Beacon (EZL,^M) ESS[|802.11]
+ 00:00:00.638604 1139076us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.652229 1151758us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.659084 1159552us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.666255 1165765us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -101dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.679564 1180031us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.716816 1215776us tsft 1.0 Mb/s 2412 MHz 11g -87dBm signal -101dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.720438 1220866us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:00.740999 1241469us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.771653 1271173us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.781955 1282430us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.819202 1318177us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -101dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.822914 1323268us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:00.843418 1343870us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.848862 1348232us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -101dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:00.851099 1350453us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Probe Response (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:00.854185 1353541us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:00.856470 1355821us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:00.863895 1364348us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:00.871072 1370568us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.871999 1373147us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -101dBm noise antenna 0 Acknowledgment RA:e4:2b:34:6c:c4:e1 (oui Unknown) 
+ 00:00:00.882954 1373605us tsft wep 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Data IV:2f4c Pad 20 KeyID 0
+ 00:00:00.894029 1384695us tsft wep bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Data IV:2f4c Pad 20 KeyID 0
+ 00:00:00.894489 1395562us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.895132 1396222us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.895602 1396711us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.896108 1397218us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.896643 1397752us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.897217 1398312us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.908249 1398914us tsft wep bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -101dBm noise antenna 0 Data IV:2f4c Pad 20 KeyID 0
+ 00:00:00.919168 1409809us tsft wep 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Data IV:2f4c Pad 20 KeyID 0
+ 00:00:00.920705 1420578us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:00.922568 1423676us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.923063 1424137us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.923517 1424572us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.924121 1425169us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.925242 1425666us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:00.946221 1436831us tsft wep bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Data IV:2f4c Pad 20 KeyID 0
+ 00:00:00.949571 1450648us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.950126 1451209us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.950753 1451814us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.951186 1452267us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -101dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.952778 1452927us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -72dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.975917 1475412us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:00.980002 1481088us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:00.993895 1484301us tsft wep bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Data IV:  0 Pad 0 KeyID 0
+ 00:00:01.006545 1507569us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.008008 1509099us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.019629 1510267us tsft wep 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f4c Pad 20 KeyID 0
+ 00:00:01.024000 1522979us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.033736 1533255us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.035821 1535164us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:01.038246 1537593us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:01.039026 1540086us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.041196 1540521us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:01.043665 1542984us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:01.046159 1545465us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:01.047149 1548234us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.047584 1548669us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.048695 1549781us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.049259 1550333us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.049812 1550855us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42608) 
+ 00:00:01.050462 1551511us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42608) 
+ 00:00:01.051112 1552166us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42608) 
+ 00:00:01.051799 1552840us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42608) 
+ 00:00:01.064403 1553433us tsft wep 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f4d Pad 20 KeyID 0
+ 00:00:01.076993 1566026us tsft wep 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f4d Pad 20 KeyID 0
+ 00:00:01.078959 1578486us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.084399 1585476us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.084963 1586056us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.086068 1587168us tsft 1.0 Mb/s 2412 MHz 11g -71dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.086644 1587747us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.089139 1589631us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.111907 1600946us tsft wep 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Data IV:2f4d Pad 20 KeyID 0
+ 00:00:01.112965 1614019us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.113443 1614517us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.114029 1615114us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.114525 1615611us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.114989 1616073us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.127576 1616633us tsft wep bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Data IV:2f4d Pad 20 KeyID 0
+ 00:00:01.129537 1629091us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.143167 1644244us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.144145 1645240us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.144709 1645782us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.147406 1648467us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.161417 1649028us tsft wep 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f4d Pad 20 KeyID 0
+ 00:00:01.173145 1674194us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.173722 1674799us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.174186 1675279us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.174665 1675760us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.175792 1676868us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.178223 1677769us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.178609 1679702us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.191245 1680281us tsft wep 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f4d Pad 20 KeyID 0
+ 00:00:01.204002 1705259us tsft short preamble 12.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Clear-To-Send RA:f4:31:c3:69:97:50 (oui Unknown) 
+ 00:00:01.204153 1705417us tsft short preamble 12.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 BA RA:f4:31:c3:69:97:50 (oui Unknown) 
+ 00:00:01.206531 1707612us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.207554 1708599us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.207934 1709031us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.208484 1709583us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.209031 1710108us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.221744 1710725us tsft wep bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Data IV:2f4d Pad 20 KeyID 0
+ 00:00:01.234330 1723372us tsft wep bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Data IV:2f4d Pad 20 KeyID 0
+ 00:00:01.236289 1735831us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.236725 1737803us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.237811 1738806us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.239929 1740977us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42624) 
+ 00:00:01.240511 1741578us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:44:38 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42624) 
+ 00:00:01.241105 1742153us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42624) 
+ 00:00:01.243702 1744149us tsft wep 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Data IV:2f4e Pad 20 KeyID 0
+ 00:00:01.244837 1745296us tsft wep 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f4e Pad 20 KeyID 0
+ 00:00:01.245987 1747040us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.247050 1748144us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.247578 1748678us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.248108 1749212us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.251943 1752394us tsft wep 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Data IV:2f4e Pad 20 KeyID 0
+ 00:00:01.253532 1754633us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.254012 1755113us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.255629 1756724us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.257437 1757897us tsft wep 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Data IV:2f4e Pad 20 KeyID 0
+ 00:00:01.259678 1760742us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.260190 1761240us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.261148 1762199us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.262787 1763238us tsft wep 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Data IV:2f4e Pad 20 KeyID 0
+ 00:00:01.263952 1764385us tsft wep 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Data IV:2f4e Pad 20 KeyID 0
+ 00:00:01.264458 1765532us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.265044 1766084us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.265438 1766510us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.266068 1767152us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.266513 1767596us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.267062 1768148us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.268240 1768686us tsft wep 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Data IV:2f4e Pad 20 KeyID 0
+ 00:00:01.270567 1771658us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.271103 1772174us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.271527 1772600us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.271997 1773071us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.272521 1773596us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.273483 1773949us tsft wep bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response IV:d31442 Pad 9 KeyID 0
+ 00:00:01.274810 1775246us tsft wep 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Data IV:2f4e Pad 20 KeyID 0
+ 00:00:01.275312 1776384us tsft wep fragmented bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 unknown 802.11 ctrl frame subtype (3)
+ 00:00:01.275827 1776900us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.277289 1778348us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.277944 1779017us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.278461 1779528us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42640) 
+ 00:00:01.280643 1780169us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.281067 1782102us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42640) 
+ 00:00:01.283520 1784550us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42640) 
+ 00:00:01.284911 1785961us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42640) 
+ 00:00:01.286088 1786521us tsft wep 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Data IV:2f4f Pad 20 KeyID 0
+ 00:00:01.287719 1788162us tsft wep 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Data IV:2f4f Pad 20 KeyID 0
+ 00:00:01.288277 1789363us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.288703 1789789us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.289269 1790332us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.289674 1790759us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.290217 1791302us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.290660 1791745us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.291881 1792290us tsft wep bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f4f Pad 20 KeyID 0
+ 00:00:01.292947 1793392us tsft wep 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Data IV:2f4f Pad 20 KeyID 0
+ 00:00:01.293953 1794429us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.294622 1795685us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.295181 1796255us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.295671 1796762us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.297615 1798018us tsft wep 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f4f Pad 20 KeyID 0
+ 00:00:01.298867 1799309us tsft wep 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Data IV:2f4f Pad 20 KeyID 0
+ 00:00:01.300094 1801179us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.300646 1801730us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.301128 1802219us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.302178 1803260us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.303342 1803797us tsft wep 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Data IV:2f4f Pad 20 KeyID 0
+ 00:00:01.304492 1804935us tsft wep 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f4f Pad 20 KeyID 0
+ 00:00:01.304987 1806072us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.305413 1806499us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.305876 1806961us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.306499 1807585us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.306978 1808047us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.307594 1808661us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.308756 1809200us tsft wep 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f4f Pad 20 KeyID 0
+ 00:00:01.309945 1810392us tsft wep 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Data IV:2f4f Pad 20 KeyID 0
+ 00:00:01.310372 1811459us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.310855 1811947us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.311299 1812382us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.311913 1812997us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.312393 1813477us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.313032 1814128us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.314227 1814673us tsft wep 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Data IV:2f4f Pad 20 KeyID 0
+ 00:00:01.315809 1816895us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.316244 1817330us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.316672 1817757us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.317124 1818209us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.317642 1818725us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.318148 1819214us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.318670 1819723us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42656) 
+ 00:00:01.319317 1820379us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42656) 
+ 00:00:01.320140 1821197us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42656) 
+ 00:00:01.321370 1822410us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42656) 
+ 00:00:01.333966 1822980us tsft wep bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f50 Pad 20 KeyID 0
+ 00:00:01.348368 1837384us tsft wep 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f50 Pad 20 KeyID 0
+ 00:00:01.348898 1849968us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.349375 1850447us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.352233 1853323us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.352778 1853857us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.353272 1854309us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.356379 1854990us tsft wep bad-fcs 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Data IV:2f50 Pad 20 KeyID 0
+ 00:00:01.366524 1867565us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.367350 1868342us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.379889 1868940us tsft wep 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Data IV:2f50 Pad 20 KeyID 0
+ 00:00:01.392600 1881605us tsft wep 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Data IV:2f50 Pad 20 KeyID 0
+ 00:00:01.394562 1894063us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.396469 1895987us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -96dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:01.398459 1899501us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.398899 1899962us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.399547 1900622us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.400713 1901205us tsft wep bad-fcs 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Data IV:2f50 Pad 20 KeyID 0
+ 00:00:01.424726 1913744us tsft wep 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Data IV:2f50 Pad 20 KeyID 0
+ 00:00:01.425255 1926328us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.425955 1927033us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.426499 1927539us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.427018 1928091us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.427482 1928553us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.428095 1929168us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.440698 1929743us tsft wep 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Data IV:2f50 Pad 20 KeyID 0
+ 00:00:01.442655 1942202us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.455210 1944255us tsft wep 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Data IV:2f50 Pad 20 KeyID 0
+ 00:00:01.455674 1956767us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.456171 1957274us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.457782 1958269us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.460014 1961071us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.460611 1961703us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.473231 1962253us tsft wep 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Data IV:2f50 Pad 20 KeyID 0
+ 00:00:01.485736 1974782us tsft wep 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Data IV:2f50 Pad 20 KeyID 0
+ 00:00:01.487695 1987242us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.488107 1989202us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.488628 1989726us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.490090 1991189us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.491098 1992199us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.492510 1993597us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.493384 1993979us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon IBSS, PRIVACY[|802.11]
+ 00:00:01.505948 1994955us tsft wep 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Data IV:2f50 Pad 20 KeyID 0
+ 00:00:01.518502 2007530us tsft wep 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Data IV:2f50 Pad 20 KeyID 0
+ 00:00:01.518911 2020024us tsft 1.0 Mb/s 2412 MHz 11g -85dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.519604 2020702us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.520071 2021163us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.520616 2021715us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.521087 2022148us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.521783 2022852us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.522294 2023372us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42672) 
+ 00:00:01.522756 2023830us tsft 1.0 Mb/s 2412 MHz 11g -87dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42672) 
+ 00:00:01.523430 2024513us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42672) 
+ 00:00:01.524441 2025502us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42672) 
+ 00:00:01.535994 2034983us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:01.539644 2040063us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:01.560179 2060666us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.575330 2075921us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:01.580716 2081147us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.587847 2087372us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.595794 2096379us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.601168 2101628us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.616541 2116838us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.621664 2122108us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.638420 2137383us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.648715 2148050us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Probe Response (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:01.651258 2150621us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:01.662618 2163071us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.677726 2178321us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:01.683120 2183551us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.690232 2189771us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.703551 2204033us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.724051 2224516us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.740786 2239784us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:01.744459 2244873us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:01.748569 2247910us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Probe Response (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:01.751017 2250372us tsft 1.0 Mb/s 2412 MHz 11g -87dBm signal -96dBm noise antenna 0 Probe Response (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:01.753226 2252577us tsft 1.0 Mb/s 2412 MHz 11g -87dBm signal -96dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:01.759678 2260263us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.764994 2265477us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.780092 2280721us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:01.792656 2292173us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.805968 2306439us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.821308 2321637us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.824353 2324802us tsft wep 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f51 Pad 20 KeyID 0
+ 00:00:01.825475 2325904us tsft wep 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Data IV:2f51 Pad 20 KeyID 0
+ 00:00:01.826430 2326922us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.826991 2328091us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.827595 2328616us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.828002 2329078us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.828652 2329728us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.831045 2331496us tsft wep fragmented bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Assoc Response IV:571581 Pad 4 KeyID 0
+ 00:00:01.833228 2334326us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.834439 2335538us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.835661 2336090us tsft wep 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Data IV:2f51 Pad 20 KeyID 0
+ 00:00:01.843201 2342185us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.845954 2346997us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:2a (oui Unknown) 
+ 00:00:01.846866 2347280us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:01.847478 2348553us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.850293 2351342us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.850771 2351831us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.851317 2352374us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.851795 2352845us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.852254 2353306us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.852911 2353939us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.854081 2354488us tsft wep 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Data IV:2f51 Pad 20 KeyID 0
+ 00:00:01.855306 2355716us tsft wep 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Data IV:2f51 Pad 20 KeyID 0
+ 00:00:01.858054 2359079us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Request-To-Send TA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:01.859230 2360278us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 BAR RA:4d:3d:00:60:c4:81 (oui Unknown) TA:7c:d9:e7:dd:1a:a6 (oui Unknown) CTL(5064) SEQ(42691) 
+ 00:00:01.859691 2360744us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42688) 
+ 00:00:01.860588 2361643us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 BAR RA:e4:2b:34:6c:c4:e1 (oui Unknown) TA:4a:d9:e7:dd:1a:a6 (oui Unknown) CTL(4) SEQ(42688) 
+ 00:00:01.862089 2362663us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.867446 2367881us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.887882 2388364us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.908360 2408844us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.928863 2429323us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.945653 2444586us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:01.949296 2449680us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:01.969833 2470284us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.984896 2485522us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:01.990499 2490763us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:01.997503 2496973us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.010796 2511243us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.026128 2526438us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.031303 2531724us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.048008 2546986us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.051676 2552082us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:02.054554 2555089us tsft wep 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Data IV:441 Pad 20 KeyID 1
+ 00:00:02.066865 2567463us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.072219 2572687us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.087331 2587921us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:02.092709 2593168us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.099883 2599374us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.113200 2613647us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.133722 2634129us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.151057 2650574us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.154127 2654486us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:02.169266 2669864us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.174621 2675089us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.189726 2690322us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:02.195095 2695570us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.215569 2716051us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.230909 2731239us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.236095 2736533us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.252292 2751287us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:02.256504 2756889us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:02.271629 2772264us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.276987 2777492us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.297519 2797970us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.304640 2804175us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.309775 2810943us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Acknowledgment RA:e4:2b:34:6c:c4:e1 (oui Unknown) 
+ 00:00:02.317994 2818451us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.335862 2836195us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.338461 2838932us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.354714 2853700us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:02.358897 2859289us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:02.374063 2874664us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.379410 2879893us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.399894 2900375us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.407036 2906575us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.414992 2915582us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.420380 2920855us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.435707 2936039us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.440910 2941335us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.457083 2956081us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.461256 2961692us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:02.476497 2977064us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.481854 2982295us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.502360 3002777us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.509456 3008977us tsft 1.0 Mb/s 2412 MHz 11g -87dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.522790 3023255us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.538147 3038439us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (myqweM-sM--1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.543291 3043737us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.559482 3058480us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.563651 3064095us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:02.578908 3079535us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.584279 3084699us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.604696 3105179us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.611835 3111376us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.619745 3120380us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.625196 3125657us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.645680 3146137us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.663293 3160899us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:02.666078 3166494us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:02.686639 3187098us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.707094 3207577us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.714294 3213777us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.727571 3228054us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.748062 3248532us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.764288 3263289us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:02.768495 3268889us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:02.789006 3289491us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.809543 3309973us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.816662 3316178us tsft 1.0 Mb/s 2412 MHz 11g -84dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.816885 3318111us tsft wep 11.0 Mb/s 2412 MHz 11g -84dBm signal -96dBm noise antenna 0 Data IV:7258 Pad 20 KeyID 1
+ 00:00:02.818325 3319587us tsft short preamble 6.0 Mb/s 2412 MHz 11g -85dBm signal -96dBm noise antenna 0 Acknowledgment RA:f4:31:c3:69:97:50 (oui Unknown) 
+ 00:00:02.818561 3319794us tsft wep bad-fcs -83dBm signal -96dBm noise antenna 0 2412 MHz 11n ht/20 19.5 Mb/s MCS 2 20 MHz long GI mixed BCC FEC Data IV:b6db Pad 20 KeyID 0
+ 00:00:02.829984 3330455us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.835143 3336388us tsft short preamble 12.0 Mb/s 2412 MHz 11g -85dBm signal -96dBm noise antenna 0 Acknowledgment RA:f4:31:c3:69:97:50 (oui Unknown) 
+ 00:00:02.850476 3350935us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.870866 3371291us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:02.891417 3391894us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.911926 3412375us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.919084 3418578us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:02.932395 3432856us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.953683 3453334us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:02.969100 3468088us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:02.973302 3473691us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:02.993827 3494294us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.014324 3514772us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.021439 3520979us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.034782 3535252us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.055264 3555733us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.072641 3572180us tsft 1.0 Mb/s 2412 MHz 11g -87dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.075658 3576090us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:03.096231 3596692us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.109840 3609380us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.116691 3617173us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.123839 3623380us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.137171 3637654us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.157711 3658131us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.171395 3670756us tsft 1.0 Mb/s 2412 MHz 11g -86dBm signal -96dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:03.176106 3675628us tsft 1.0 Mb/s 2412 MHz 11g -86dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.178291 3677573us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Probe Response (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:03.191600 3690918us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:03.198993 3698278us tsft 1.0 Mb/s 2412 MHz 11g -86dBm signal -96dBm noise antenna 0 Probe Response (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:03.219089 3719573us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.226232 3725781us tsft 1.0 Mb/s 2412 MHz 11g -87dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.239594 3740054us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.260056 3760532us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.276286 3775286us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:03.280489 3780890us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:03.301053 3801494us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.321491 3821974us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.328684 3828180us tsft 1.0 Mb/s 2412 MHz 11g -85dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.341988 3842454us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.362472 3862932us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.379845 3879382us tsft 1.0 Mb/s 2412 MHz 11g -84dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.382842 3883289us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:03.403483 3903892us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.423886 3924372us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.430504 3930582us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -84dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:03.431749 3931954us tsft 1.0 Mb/s 2412 MHz 11g -33dBm signal -96dBm noise antenna 0 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+ 00:00:03.444407 3944854us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.451839 3951987us tsft 1.0 Mb/s 2412 MHz 11g -34dBm signal -96dBm noise antenna 0 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+ 00:00:03.454412 3955240us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Probe Request (1) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit]
+ 00:00:03.464855 3965334us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.481090 3980100us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:03.485279 3985691us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:03.500489 4001092us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.505821 4006293us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.520939 4021524us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:03.533462 4032982us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.546806 4047256us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.560651 4060859us tsft 1.0 Mb/s 2412 MHz 11g -50dBm signal -96dBm noise antenna 0 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+ 00:00:03.567268 4067735us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.583512 4082488us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:03.587656 4088092us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:03.608221 4108695us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.628709 4129176us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.635865 4135382us tsft 1.0 Mb/s 2412 MHz 11g -86dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.649202 4149657us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.669680 4170138us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.685896 4184889us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:03.690061 4190495us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:03.738247 4237783us tsft 1.0 Mb/s 2412 MHz 11g -83dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.738615 4239716us tsft wep 11.0 Mb/s 2412 MHz 11g -84dBm signal -96dBm noise antenna 0 Data IV:7259 Pad 20 KeyID 1
+ 00:00:03.739038 4240215us tsft wep 11.0 Mb/s 2412 MHz 11g -86dBm signal -96dBm noise antenna 0 Data IV:725a Pad 20 KeyID 1
+ 00:00:03.751595 4252059us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.772048 4272537us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.788293 4287299us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:03.792450 4292896us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:03.813036 4313498us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.833567 4333979us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.840660 4340184us tsft 1.0 Mb/s 2412 MHz 11g -86dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.854018 4354460us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.874465 4374943us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.894866 4395300us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:03.915446 4415904us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.929084 4428587us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.935916 4436384us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.943038 4442584us tsft 1.0 Mb/s 2412 MHz 11g -86dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:03.956380 4456865us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.976924 4477343us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:03.993145 4492091us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:03.997301 4497701us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.017833 4518304us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.031465 4530988us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -97dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 28.0 11.5* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.038376 4538785us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.045457 4544984us tsft 1.0 Mb/s 2412 MHz 11g -83dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.054421 4554999us tsft wep 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Data IV:443 Pad 20 KeyID 1
+ 00:00:04.058792 4559264us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.079277 4579746us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.093826 4594497us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -96dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:04.096618 4596184us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.099730 4600104us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.114842 4615467us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.120235 4620707us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.133834 4633389us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.135334 4635925us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.140729 4641188us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.147869 4647386us tsft 1.0 Mb/s 2412 MHz 11g -85dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.155788 4656383us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.161227 4661668us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.176513 4676842us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.181680 4682146us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.197902 4696893us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:04.202131 4702502us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.217238 4717866us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.222618 4723104us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.236254 4735790us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.237698 4738324us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.243131 4743582us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.250249 4749785us tsft 1.0 Mb/s 2412 MHz 11g -82dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.259191 4759790us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.284098 4784543us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.301465 4800987us tsft 1.0 Mb/s 2412 MHz 11g -83dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.304481 4804899us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.325019 4825502us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.338641 4838191us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.345558 4845984us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.352660 4852186us tsft 1.0 Mb/s 2412 MHz 11g -81dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.366033 4866467us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.386517 4886945us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.402717 4901694us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:04.406861 4907302us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.427473 4927905us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.441056 4940592us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.447916 4948384us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.455112 4954587us tsft 1.0 Mb/s 2412 MHz 11g -81dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.468396 4968864us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.488865 4989345us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.505128 5004108us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:04.509406 5009788us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.529824 5030303us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.544924 5045526us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.550317 5050783us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.557506 5056987us tsft 1.0 Mb/s 2412 MHz 11g -77dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.565356 5065982us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.570800 5071262us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.586112 5086442us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.591255 5091744us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.607494 5106496us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -96dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:04.611656 5112101us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.632261 5132706us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.645877 5145394us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -96dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:04.652789 5153186us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.659850 5159388us tsft 1.0 Mb/s 2412 MHz 11g -81dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.660229 5161320us tsft wep 11.0 Mb/s 2412 MHz 11g -81dBm signal -96dBm noise antenna 0 Data IV:725b Pad 20 KeyID 1
+ 00:00:04.667807 5168383us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.673210 5173668us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.693676 5194147us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.709914 5208911us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:04.714084 5214505us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.734646 5235108us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.755152 5255589us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.760667 5261789us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -86dBm signal -96dBm noise antenna 0 [|802.11]
+ 00:00:04.770164 5270784us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.775571 5276068us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.790908 5291242us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.796062 5296548us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.816471 5316906us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.837031 5337509us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.852166 5352725us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.857503 5357988us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.877992 5378468us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.898482 5398949us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.915856 5415390us tsft 1.0 Mb/s 2412 MHz 11g -84dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.918862 5419305us tsft 1.0 Mb/s 2412 MHz 11g -96dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:04.939423 5439907us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.959904 5460388us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:04.967312 5466589us tsft 1.0 Mb/s 2412 MHz 11g -83dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:04.967435 5468522us tsft wep 11.0 Mb/s 2412 MHz 11g -87dBm signal -95dBm noise antenna 0 Data IV:725c Pad 20 KeyID 1
+ 00:00:04.980419 5480870us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.000895 5501348us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.021307 5521706us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.041828 5542307us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.062337 5562788us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.069462 5568991us tsft 1.0 Mb/s 2412 MHz 11g -85dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.076221 5575268us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Beacon (Leslie) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.077353 5577984us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.082830 5583266us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.099875 5601011us tsft fragmented bad-fcs 11.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Authentication (Reserved)-831f: n/a[|802.11]
+ 00:00:05.103337 5603749us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.120631 5620190us tsft 1.0 Mb/s 2412 MHz 11g -81dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.123661 5624106us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.144232 5644710us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.164774 5665191us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.171853 5671391us tsft 1.0 Mb/s 2412 MHz 11g -82dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.185244 5685671us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.205692 5706153us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.223034 5722592us tsft 1.0 Mb/s 2412 MHz 11g -84dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.226071 5726510us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.246685 5747113us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.260235 5759799us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.267121 5767594us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.274280 5773791us tsft 1.0 Mb/s 2412 MHz 11g -81dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.287614 5788074us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.308074 5808555us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.325432 5824992us tsft 1.0 Mb/s 2412 MHz 11g -79dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.328527 5828911us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.334023 5833019us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.349056 5849513us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.369522 5869993us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.376674 5876191us tsft 1.0 Mb/s 2412 MHz 11g -72dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.384583 5885184us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.390029 5890473us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.405346 5905644us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.410468 5910952us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.427876 5927392us tsft 1.0 Mb/s 2412 MHz 11g -75dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.430925 5931309us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.451467 5951911us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.466561 5967127us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.471929 5972393us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.479100 5978593us tsft 1.0 Mb/s 2412 MHz 11g -74dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.492418 5992872us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.507738 6008043us tsft fragmented bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 unknown 802.11 frame type (3)
+ 00:00:05.512898 6013353us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.530232 6029792us tsft 1.0 Mb/s 2412 MHz 11g -78dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.533342 6033709us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.548453 6049069us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 CF-End RA:ff:ff:ff:ff:7f:26 (oui Unknown) 
+ 00:00:05.553829 6054313us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.568946 6069527us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.574307 6074794us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.581451 6080992us tsft 1.0 Mb/s 2412 MHz 11g -77dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.589395 6089985us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.594801 6095274us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.610191 6110444us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.615322 6115755us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.626833 6125819us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.632011 6131013us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:05.635708 6136113us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.650863 6151469us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.656275 6156717us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.669858 6169403us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.671313 6171927us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.674227 6175304us tsft short preamble wep fragmented bad-fcs 36.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Data IV:c7234f Pad 18 KeyID 0
+ 00:00:05.676741 6177197us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.683926 6183393us tsft 1.0 Mb/s 2412 MHz 11g -71dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.691755 6192385us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.697218 6197678us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.712509 6212844us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.717671 6218159us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.734282 6233414us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:05.738094 6238516us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.753273 6253869us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.758659 6259120us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.772275 6271804us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.773702 6274327us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.779118 6279601us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.786262 6285795us tsft 1.0 Mb/s 2412 MHz 11g -70dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.794170 6294785us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.799611 6300081us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.820111 6320562us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.837471 6336994us tsft 1.0 Mb/s 2412 MHz 11g -67dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.840501 6340920us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.855695 6356269us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.861063 6361524us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.874671 6374205us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.876095 6376727us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.881513 6382005us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.888674 6388194us tsft 1.0 Mb/s 2412 MHz 11g -75dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.888893 6390127us tsft wep 11.0 Mb/s 2412 MHz 11g -75dBm signal -95dBm noise antenna 0 Data IV:725d Pad 20 KeyID 1
+ 00:00:05.902032 6402485us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.922495 6422964us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.939272 6438215us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:05.942906 6443322us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:05.963485 6463925us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.977063 6476605us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:05.984156 6484406us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:05.991056 6490595us tsft 1.0 Mb/s 2412 MHz 11g -70dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.004430 6504887us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.024898 6525365us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.041666 6540616us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:06.045306 6545722us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:06.054379 6554924us tsft wep 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Data IV:445 Pad 20 KeyID 1
+ 00:00:06.065840 6566325us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.079491 6579006us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.086376 6586803us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.093537 6592996us tsft 1.0 Mb/s 2412 MHz 11g -69dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.106825 6607283us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.122122 6622444us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.127329 6627765us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.142751 6643017us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:06.144652 6644196us tsft 1.0 Mb/s 2412 MHz 11g -69dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.147749 6648124us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:06.168278 6668728us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.183347 6683927us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:06.188779 6689207us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.195914 6695397us tsft 1.0 Mb/s 2412 MHz 11g -75dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.203811 6704385us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.209216 6709690us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.222952 6723365us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1, PRIVACY
+ 00:00:06.224016 6724764us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response () [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1, PRIVACY
+ 00:00:06.227089 6727409us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.227909 6728659us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response () [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1, PRIVACY
+ 00:00:06.229019 6729762us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Probe Response ()[|802.11]
+ 00:00:06.231779 6732189us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1, PRIVACY
+ 00:00:06.232842 6733588us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response () [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1, PRIVACY
+ 00:00:06.233945 6734690us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response () [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1, PRIVACY
+ 00:00:06.235038 6735792us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response () [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1, PRIVACY
+ 00:00:06.236465 6736894us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1, PRIVACY
+ 00:00:06.237564 6738292us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response () [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1, PRIVACY
+ 00:00:06.238683 6739394us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Probe Response () [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1, PRIVACY
+ 00:00:06.239768 6740496us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response () [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1, PRIVACY
+ 00:00:06.247036 6746597us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.250082 6750526us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:06.265276 6765869us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.270659 6771130us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.285718 6786328us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:06.291132 6791610us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.298254 6797796us tsft 1.0 Mb/s 2412 MHz 11g -82dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.311645 6812091us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.332085 6832570us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.349452 6848998us tsft 1.0 Mb/s 2412 MHz 11g -77dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.352530 6852928us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:06.367677 6868270us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.373075 6873534us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.386663 6886209us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.393553 6894012us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.400689 6900198us tsft 1.0 Mb/s 2412 MHz 11g -77dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.408589 6909186us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.414026 6914496us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.418995 6920118us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Clear-To-Send RA:00:24:7b:2f:9f:8c (oui Unknown) 
+ 00:00:06.429309 6929647us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.434478 6934974us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.451853 6951397us tsft 1.0 Mb/s 2412 MHz 11g -67dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.475502 6975934us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response ()[|802.11]
+ 00:00:06.489081 6988610us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.496000 6996414us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.503062 7002598us tsft 1.0 Mb/s 2412 MHz 11g -67dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.516428 7016895us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.536891 7037373us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.552383 7052620us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:06.554282 7053799us tsft 1.0 Mb/s 2412 MHz 11g -71dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.557307 7057731us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:06.577897 7078333us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.591447 7091011us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.598373 7098813us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.605549 7104998us tsft 1.0 Mb/s 2412 MHz 11g -72dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.618836 7119293us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.639312 7139772us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.654791 7155020us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:06.656631 7156199us tsft 1.0 Mb/s 2412 MHz 11g -78dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.659754 7160133us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon () IBSS[|802.11]
+ 00:00:06.674863 7175471us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.679328 7178543us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (Mountain Skillz) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.680239 7180736us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.693857 7193412us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.700729 7201215us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.707874 7207400us tsft 1.0 Mb/s 2412 MHz 11g -80dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.707950 7209257us tsft short preamble 6.0 Mb/s 2412 MHz 11g -78dBm signal -95dBm noise antenna 0 Clear-To-Send RA:d8:8f:76:64:51:4c (oui Unknown) 
+ 00:00:06.709762 7211011us tsft short preamble 6.0 Mb/s 2412 MHz 11g -78dBm signal -95dBm noise antenna 0 Clear-To-Send RA:d8:8f:76:64:51:4c (oui Unknown) 
+ 00:00:06.711601 7212737us tsft 1.0 Mb/s 2412 MHz 11g -81dBm signal -95dBm noise antenna 0 Acknowledgment RA:d8:8f:76:64:51:4c (oui Unknown) 
+ 00:00:06.715076 7216275us tsft short preamble 2.0 Mb/s 2412 MHz 11g -81dBm signal -95dBm noise antenna 0 Clear-To-Send RA:d8:8f:76:64:51:4c (oui Unknown) 
+ 00:00:06.719644 7220789us tsft 1.0 Mb/s 2412 MHz 11g -78dBm signal -95dBm noise antenna 0 Clear-To-Send RA:d8:8f:76:64:51:4c (oui Unknown) 
+ 00:00:06.721222 7221695us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.736540 7236845us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.741716 7242174us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Probe Response[|802.11]
+ 00:00:06.759033 7258599us tsft 1.0 Mb/s 2412 MHz 11g -76dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.763500 7262533us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:06.765433 7266421us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 
+ 00:00:06.766207 7267180us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 
+ 00:00:06.766923 7267940us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 
+ 00:00:06.767666 7268699us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 
+ 00:00:06.769203 7270218us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 
+ 00:00:06.777237 7277871us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.781669 7280874us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (Mountain Skillz) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.782657 7283136us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.785233 7286190us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 
+ 00:00:06.787757 7288895us tsft 1.0 Mb/s 2412 MHz 11g -74dBm signal -95dBm noise antenna 0 Acknowledgment RA:d8:8f:76:64:51:4c (oui Unknown) 
+ 00:00:06.788295 7289517us tsft short preamble 6.0 Mb/s 2412 MHz 11g -71dBm signal -95dBm noise antenna 0 Acknowledgment RA:d8:8f:76:64:51:4c (oui Unknown) 
+ 00:00:06.796264 7295813us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.797724 7298327us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:06.803167 7303615us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.810268 7309800us tsft 1.0 Mb/s 2412 MHz 11g -71dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.810541 7311733us tsft wep 11.0 Mb/s 2412 MHz 11g -74dBm signal -95dBm noise antenna 0 Data IV:725e Pad 20 KeyID 1
+ 00:00:06.810968 7312106us tsft wep 11.0 Mb/s 2412 MHz 11g -70dBm signal -95dBm noise antenna 0 Data IV:725f Pad 20 KeyID 1
+ 00:00:06.819258 7319863us tsft wep 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Data IV:3dd3 Pad 20 KeyID 0
+ 00:00:06.820526 7321126us tsft wep 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Data IV:3dd3 Pad 20 KeyID 0
+ 00:00:06.821751 7322326us tsft wep 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Data IV:3dd3 Pad 20 KeyID 0
+ 00:00:06.822965 7323527us tsft wep 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Data IV:3dd3 Pad 20 KeyID 0
+ 00:00:06.825601 7326162us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.832794 7332082us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.838910 7339245us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.844090 7344578us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.860815 7359822us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:06.884034 7383207us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -95dBm noise antenna 0 Beacon (Mountain Skillz) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.885040 7385537us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.890914 7392057us tsft 1.0 Mb/s 2412 MHz 11g -78dBm signal -95dBm noise antenna 0 Acknowledgment RA:e4:2b:34:6c:c4:e1 (oui Unknown) 
+ 00:00:06.898678 7398214us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -95dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.905548 7406018us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.912660 7412200us tsft 1.0 Mb/s 2412 MHz 11g -78dBm signal -95dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.920641 7420232us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Beacon (Leslie) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:06.926035 7426499us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.946505 7446979us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -95dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:06.961971 7462223us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:06.963864 7463401us tsft 1.0 Mb/s 2412 MHz 11g -75dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:06.966911 7467337us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:06.987486 7487939us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.001116 7500615us tsft 1.0 Mb/s 2412 MHz 11g -84dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.007987 7508419us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.015102 7514600us tsft 1.0 Mb/s 2412 MHz 11g -73dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.026146 7525202us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon (Leslie) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.028420 7528900us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.048893 7549380us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.054305 7554909us tsft wep 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Data IV:446 Pad 20 KeyID 1
+ 00:00:07.066257 7565800us tsft 1.0 Mb/s 2412 MHz 11g -76dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.069309 7569739us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:07.089877 7590341us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.108954 7608513us tsft 1.0 Mb/s 2412 MHz 11g -85dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.110351 7610820us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.117469 7617002us tsft 1.0 Mb/s 2412 MHz 11g -76dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.130828 7631301us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.141065 7640365us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:07.146127 7646446us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.151355 7651781us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.168025 7667024us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -96dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:07.171701 7672139us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:07.191053 7690203us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (Mountain Skillz) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.192299 7692742us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.205889 7705416us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:07.207309 7707929us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon ESS, PRIVACY[|802.11]
+ 00:00:07.212732 7713223us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.219882 7719401us tsft 1.0 Mb/s 2412 MHz 11g -75dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.227805 7728387us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.233237 7733704us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.242109 7741390us tsft 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.253743 7754185us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.270421 7769425us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:07.274172 7774542us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:07.289250 7789871us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.294689 7795146us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.308265 7807817us tsft 1.0 Mb/s 2412 MHz 11g -83dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.315157 7815628us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.322257 7821802us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -75dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:07.324134 7825018us tsft 1.0 Mb/s 2412 MHz 11g -75dBm signal -96dBm noise antenna 0 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit]
+ 00:00:07.324758 7825645us tsft 1.0 Mb/s 2412 MHz 11g -75dBm signal -96dBm noise antenna 0 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit]
+ 00:00:07.326982 7826342us tsft 1.0 Mb/s 2412 MHz 11g -79dBm signal -96dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:07.327271 7828438us tsft 1.0 Mb/s 2412 MHz 11g -76dBm signal -96dBm noise antenna 0 Acknowledgment RA:44:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:07.329438 7828789us tsft 1.0 Mb/s 2412 MHz 11g -85dBm signal -96dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:07.329708 7830885us tsft 1.0 Mb/s 2412 MHz 11g -78dBm signal -96dBm noise antenna 0 Acknowledgment RA:4a:d9:e7:dd:19:9f (oui Unknown) 
+ 00:00:07.331940 7831281us tsft 1.0 Mb/s 2412 MHz 11g -77dBm signal -96dBm noise antenna 0 Probe Response (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:07.332236 7833377us tsft 1.0 Mb/s 2412 MHz 11g -78dBm signal -96dBm noise antenna 0 Acknowledgment RA:4a:d9:e7:dd:19:9f (oui Unknown) 
+ 00:00:07.334473 7833827us tsft 1.0 Mb/s 2412 MHz 11g -74dBm signal -96dBm noise antenna 0 Probe Response (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:07.334831 7835939us tsft 1.0 Mb/s 2412 MHz 11g -78dBm signal -96dBm noise antenna 0 Acknowledgment RA:4a:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:07.336956 7836272us tsft 1.0 Mb/s 2412 MHz 11g -74dBm signal -96dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:07.337213 7838368us tsft 1.0 Mb/s 2412 MHz 11g -77dBm signal -96dBm noise antenna 0 Acknowledgment RA:44:d9:e7:dd:1a:a6 (oui Unknown) 
+ 00:00:07.346229 7845519us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.356190 7856587us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.372848 7871826us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:07.376504 7876945us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:07.393199 7892201us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (CXNK003E1C31) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS, PRIVACY[|802.11]
+ 00:00:07.395675 7894869us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon (Mountain Skillz) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.410655 7910218us tsft 1.0 Mb/s 2412 MHz 11g -85dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.417563 7918028us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.424297 7923651us tsft 1.0 Mb/s 2412 MHz 11g -81dBm signal -96dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:07.426294 7925807us tsft 1.0 Mb/s 2412 MHz 11g -82dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.432047 7931374us tsft 1.0 Mb/s 2412 MHz 11g -77dBm signal -96dBm noise antenna 0 Probe Response (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:07.434195 7933561us tsft 1.0 Mb/s 2412 MHz 11g -82dBm signal -96dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:07.436676 7935986us tsft 1.0 Mb/s 2412 MHz 11g -86dBm signal -96dBm noise antenna 0 Probe Response (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 1, PRIVACY
+ 00:00:07.436953 7938082us tsft 1.0 Mb/s 2412 MHz 11g -77dBm signal -96dBm noise antenna 0 Acknowledgment RA:4a:d9:e7:dd:19:9f (oui Unknown) 
+ 00:00:07.438058 7938508us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.446880 7946155us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.458565 7958991us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.475237 7974226us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:07.478911 7979345us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:07.497987 7997201us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon (Mountain Skillz) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.499435 7999948us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.513064 8012619us tsft 1.0 Mb/s 2412 MHz 11g -81dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.520052 8020430us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.527061 8026603us tsft 1.0 Mb/s 2412 MHz 11g -83dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.540460 8040910us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.549066 8048368us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.555711 8056046us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [25.0* 15.5* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.560902 8061391us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.581315 8081748us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:07.596440 8097071us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.600361 8099555us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Beacon (Mountain Skillz) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.601901 8102351us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.615453 8115020us tsft 1.0 Mb/s 2412 MHz 11g -84dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.616916 8117529us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:07.622341 8122832us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.629527 8129004us tsft 1.0 Mb/s 2412 MHz 11g -85dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.637414 8137987us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.642846 8143313us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.653456 8152721us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.658109 8158446us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.663349 8163793us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.680042 8179028us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:07.698916 8199471us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.702689 8201866us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (Mountain Skillz) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.704283 8204754us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.717879 8217421us tsft 1.0 Mb/s 2412 MHz 11g -85dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.719334 8219929us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:07.731879 8231405us tsft 1.0 Mb/s 2412 MHz 11g -84dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.732154 8233338us tsft wep 11.0 Mb/s 2412 MHz 11g -82dBm signal -96dBm noise antenna 0 Data IV:7260 Pad 20 KeyID 1
+ 00:00:07.739762 8240388us tsft 1.0 Mb/s 2412 MHz 11g -87dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.741585 8242185us tsft wep 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Data IV:3dd4 Pad 20 KeyID 0
+ 00:00:07.742825 8243412us tsft wep 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Data IV:3dd4 Pad 20 KeyID 0
+ 00:00:07.744034 8244648us tsft wep 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Data IV:3dd4 Pad 20 KeyID 0
+ 00:00:07.745249 8245717us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.753728 8253032us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.760509 8260846us tsft 1.0 Mb/s 2412 MHz 11g -87dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.783073 8282604us tsft 1.0 Mb/s 2412 MHz 11g -87dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.786115 8286555us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:07.801244 8301872us tsft 1.0 Mb/s 2412 MHz 11g -87dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.804990 8304198us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (Mountain Skillz) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.806660 8307159us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.812207 8313195us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 
+ 00:00:07.812964 8313999us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 
+ 00:00:07.815484 8316521us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 
+ 00:00:07.816277 8317307us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 
+ 00:00:07.817075 8318120us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 
+ 00:00:07.820282 8319822us tsft 1.0 Mb/s 2412 MHz 11g -87dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.821696 8322329us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:07.823589 8324580us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 
+ 00:00:07.827149 8327641us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.834278 8333806us tsft 1.0 Mb/s 2412 MHz 11g -82dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.836078 8337227us tsft 1.0 Mb/s 2412 MHz 11g -84dBm signal -96dBm noise antenna 0 Acknowledgment RA:e4:2b:34:6c:c4:e1 (oui Unknown) 
+ 00:00:07.842173 8342788us tsft 1.0 Mb/s 2412 MHz 11g -87dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.847637 8348121us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.856060 8355364us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.864331 8363246us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.868112 8368602us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.884835 8383829us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:07.888541 8388960us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:07.907501 8406671us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon (Mountain Skillz) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.909083 8409564us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.922658 8422223us tsft 1.0 Mb/s 2412 MHz 11g -84dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.924100 8424730us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:07.929575 8430044us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.936680 8436205us tsft 1.0 Mb/s 2412 MHz 11g -86dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.944596 8445188us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.950055 8450523us tsft 1.0 Mb/s 2412 MHz 11g -88dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:07.958536 8457783us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:07.987230 8486230us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:07.991161 8491362us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:08.006053 8506672us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:08.011476 8511963us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:08.025059 8524624us tsft 1.0 Mb/s 2412 MHz 11g -86dBm signal -96dBm noise antenna 0 Beacon (ski lodge) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:08.026486 8527130us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:08.031977 8532443us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 1
+ 00:00:08.039080 8538607us tsft 1.0 Mb/s 2412 MHz 11g -81dBm signal -96dBm noise antenna 0 Beacon (ski lodge 2) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:08.047003 8547588us tsft 1.0 Mb/s 2412 MHz 11g -91dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:08.054289 8554877us tsft wep 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Data IV:447 Pad 20 KeyID 1
+ 00:00:08.060724 8560029us tsft 1.0 Mb/s 2412 MHz 11g -94dBm signal -96dBm noise antenna 0 Beacon () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 1, PRIVACY
+ 00:00:08.067711 8568047us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (myqwest1035) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1, PRIVACY
+ 00:00:08.072916 8573405us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Probe Response (EZLYNK_8B30) [1.0* 2.0* 5.5 39.5 Mbit] CH: 1
+ 00:00:08.089654 8588631us tsft bad-fcs 1.0 Mb/s 2412 MHz 11g -95dBm signal -96dBm noise antenna 0 Beacon (goodnightcabin) [1.0* 2.0* 5.5* 11.0* 18.0 24.0* 36.0 54.0 Mbit] ESS CH: 1, PRIVACY[|802.11]
+ 00:00:08.093345 8593763us tsft 1.0 Mb/s 2412 MHz 11g -93dBm signal -96dBm noise antenna 0 Beacon (EZLYNK_8B30) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 1
+ 00:00:08.094132 8594878us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Probe Request (NVR9ca3a9082c6e) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit]
+ 00:00:08.094845 8595607us tsft 1.0 Mb/s 2412 MHz 11g -90dBm signal -96dBm noise antenna 0 Probe Request (NVR9ca3a9082c6e) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit]
+ 00:00:08.095482 8596354us tsft 1.0 Mb/s 2412 MHz 11g -89dBm signal -96dBm noise antenna 0 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit]
+ 00:00:08.096148 8596981us tsft 1.0 Mb/s 2412 MHz 11g -92dBm signal -96dBm noise antenna 0 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit]

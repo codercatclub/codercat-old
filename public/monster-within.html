@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Monster Within</title>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+    :root {
+      --bg-offset-x: -100px;
+    }
+
+    body {
+      margin: 0;
+      background-color: #6f8e97;
+    }
+    .background.container {
+      overflow: hidden;
+      width: 100%;
+      height: 100%;
+    }
+    .background {
+      background: url(img/monster-within/background.jpg) repeat-x;
+      background-position-y: var(--bg-offset-x);
+      height: calc(var(--bg-offset-x) + 1650px);
+      background-position-x: center;
+    }
+    .background2 {
+      background: url(img/monster-within/background2.jpg) repeat-x;
+      background-position-y: var(--bg-offset-x);
+
+      background-position-x: center;
+    }
+    .background2 p {
+      color: #c2c6c7;
+    }
+    .centered {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .center-column {
+      width: 55%;
+    }
+    h1, h2, p {
+      font-family: 'Questrial', sans-serif;
+      color: white;
+      font-size: 18px;
+    }
+    h1 {
+      font-size: 6.7vw;
+      font-weight: 100;
+      text-shadow: #06142b78 6px 6px 0px;
+      margin: 0 1vw 2vw 0;
+    }
+    h2 {
+      font-size: 32px;
+      /* text-shadow: #06142b78 3px 3px 0px; */
+      margin-top: 50px;
+      font-weight: 100;
+      color:#c2c6c7;
+    }
+    p {
+      line-height: 28px;
+    }
+    .background2 a {
+      color: #c2c6c7;
+    }
+    .title {
+      display: flex;
+      margin-top: 30px;
+    }
+    .button {
+      margin-bottom: 1vw;
+      height: fit-content;
+      width: fit-content;
+    }
+    .button-img {
+      width: 240px;
+    }
+    .button:hover {
+      cursor: pointer;
+      -webkit-filter: drop-shadow(3px 3px 0px #06142b78);
+    }
+    .buttons-container {
+      display: flex;
+      flex-direction: column;
+    }
+    .gallery-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      grid-gap: 8px;
+      align-items: stretch;
+      margin-top: 20px;
+    }
+    .screenshot {
+      max-width: 100%;
+      box-shadow: 2px 2px 0px #06142b78;
+    }
+    .gallery-row {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin: 2.5px;
+    }
+    .menu-buttons-container {
+      display: flex;
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      width: 50px;
+      height: 50px;
+      z-index: 999;
+    }
+    .menu-button-image {
+      display: inline-block;
+      z-index: 999;
+      width: 50px;
+      width: 50px;
+      margin-left: 10px;
+      -webkit-filter: drop-shadow(3px 3px 0px #06142b78);
+    }
+    .menu-button-image:hover {
+      cursor: pointer;
+      opacity: 0.8;
+    }
+    .padding-block {
+      height: 200px;
+    }
+    .description {
+      margin-bottom: 4vw;
+      text-align: justify;
+    }
+    .video {
+      width: 100%;
+    }
+    .video-container {
+      margin-top: 30px;
+    }
+    @media screen and (max-width: 600px) {
+      h1 {
+        font-size: 17vw;
+      }
+      .center-column {
+        width: 80%;
+      }
+      .title {
+        flex-direction: column;
+        align-items: center;
+      }
+      .menu-buttons-container {
+        visibility: hidden;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <a class="menu-buttons-container" href="https://codercat.tk" target="_blank">
+    <img class="menu-button-image" src="img/info.png" />
+  </a>
+  <div class="background container">
+    <div class="background">
+      <div class="centered">
+        <div class="title">
+          <h1>MONSTER</h1>
+          <h1>WITHIN</h1>
+        </div>
+        <div class="center-column">
+          <p class="description">
+            Monster Within is a short interactive Virtual Reality experience about the unpredictable nature of social acceptance.
+            It
+            tries to explore how changes to our appearance can alter societies attitude
+            towards you. Society views you as a monster, even though you are the same person you always
+            were.
+          </p>
+          <div class="buttons-container">
+            <a class="button" href="https://xpan.cc/a-193" target="_blank">
+              <img class="button-img" src="img/monster-within/sidequest-button@2x.png" />
+            </a>
+            <!-- <a class="button" href="https://codercat.tk" target="_blank">
+              <img class="button-img" src="img/monster-within/oculus-button@2x.png" />
+            </a> -->
+            <a class="button" href="https://github.com/Kif11/monster-within/releases/download/v0.5/MonsterWithin_v0.5.apk" target="_blank">
+              <img class="button-img" src="img/monster-within/android-button@2x.png" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="background2">
+      <div class="centered">
+        <div class="center-column">
+          <div class="video-container">
+            <iframe class="video" width="560" height="400" src="https://www.youtube.com/embed/wqibm17HmYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="gallery-grid">
+            <img class="screenshot" src="img/monster-within/shot_01.png" />
+            <img class="screenshot" src="img/monster-within/shot_02.png" />
+            <img class="screenshot" src="img/monster-within/shot_03.png" />
+            <img class="screenshot" src="img/monster-within/shot_04.png" />
+            <img class="screenshot" src="img/monster-within/shot_05.png" />
+            <img class="screenshot" src="img/monster-within/shot_06.png" />
+          </div>
+          <h2>Credits</h2>
+          <p>Unity Graphics Engineer -- Sneha Belkhale</p>
+          <p>Models, Rig, Animation -- Kirill Kovalevskiy</p>
+          <p>Food Models -- <a href="https://sketchfab.com/tactical-destruction" target="_blank">Ima Ethan</a> and <a href="https://sketchfab.com/Wesai" target="_blank">Wesai</a></p>
+          <div class="padding-block"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

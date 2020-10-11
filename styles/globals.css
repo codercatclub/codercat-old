@@ -1,16 +1,168 @@
-html,
-body {
-  padding: 0;
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono);
+
+:root {
+  --views-width: 693px;
+  --proj-box-size: 225px;
+}
+
+body, html {
+  font-family: 'Ubuntu Mono', monospace;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  padding: 0;
+}
+
+h1 {
+  margin: 0px;
+}
+
+li {
+  list-style: none;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: rgba(51, 51, 51, 0.12);
 }
 
 a {
-  color: inherit;
   text-decoration: none;
+  color: black;
 }
 
-* {
-  box-sizing: border-box;
+#app-view {
+  height: 100%;
+  margin-bottom: 100px;
+}
+
+#menu {
+  display: block;
+  height: 70px;
+  margin-top: 50px;
+}
+
+#menu-title {
+  display: block;
+  float: left;
+  font-size: 55px;
+  color: rgba(68, 68, 68, 0.7);
+}
+
+#menu-list {
+  display: block;
+  float: right;
+  margin-right: 10px;
+  margin-top: 36px;
+}
+
+.menu-list-item {
+  display: block;
+  float: right;
+  margin-left: 10px;
+}
+
+.menu-list-item:hover {
+  cursor: pointer;
+}
+
+.center-container {
+  width: var(--views-width);
+  margin: auto;
+}
+
+#scroll-down-btn-container {
+  position: absolute;
+  bottom: 40px;
+  left: 50%;
+}
+
+#scroll-down-btn {
+  width: 20px;
+  height: 20px;
+  transform: rotate(45deg);
+  border-right: 2px rgba(0, 0, 0, 0.5) solid;
+  border-bottom: 2px rgba(0, 0, 0, 0.5) solid;
+}
+
+#about-container p {
+  text-align: justify;
+  line-height: 25px;
+}
+
+#project-box {
+  text-decoration: none;
+  float: left;
+  width: var(--proj-box-size);
+  height: var(--proj-box-size);
+  margin: 3px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 2px rgba(0,0,0,.24);
+}
+
+#project-box:hover > #box-title {
+  display: block;
+}
+
+#project-box img {
+  max-height: 100%;
+}
+
+#project-box:hover {
+  opacity: 1;
+  box-shadow: 2px 3px 2px rgba(0,0,0,.19), 0 6px 6px rgba(0,0,0,.23);
+}
+
+.contact-entry {
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.social-media-link-not-ad {
+  float: right;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.social-media-item {
+  margin: 3px;
+}
+
+@media (max-width: 800px) {
+  :root {
+    --views-width: 410px;
+    --proj-box-size: 195px;
+  }
+  #projects-view {
+    height: auto;
+  }
+}
+
+@media (max-width: 600px) {
+  :root {
+    --views-width: 400px;
+    --proj-box-size: 400px;
+  }
+  #menu {
+    margin-top: auto;
+    margin-right: 20px;
+  }
+
+  #scroll-down-btn-container {
+    visibility: hidden;
+  }
+}
+
+@media (max-width: 400px) {
+  :root {
+    --views-width: 100vw;
+    --proj-box-size: 100vw;
+  }
+
+  #menu-list {
+    padding-left: 10px;
+  }
+
+  #project-box {
+    margin: 3px 0 3px 0;
+  }
 }

@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>whirlpool shader</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<style>
+			body {
+				color: #000;
+		    font-family: Monospace;
+		    font-size: 13px;
+		    margin: 0px;
+		    overflow: hidden;
+		    background-image: linear-gradient(0deg, #8c76ed, #fca4c5);
+			}
+			#info {
+				position: absolute;
+				top: 20px;
+				width: 400px;
+				left: calc(50% - 200px);
+				text-align: center;
+				color: white;
+				font-size: 18px;
+				opacity: 0.8;
+			}
+		</style>
+	</head>
+	<body>
+
+		<div id="container"></div>
+		<div id="info">click anywhere
+		</div>
+
+		<script src="js/three/three.min.js"></script>
+		<script src="js/three/OrbitControls.js"></script>
+		<script src="js/three/dat.gui.min.js"></script>
+		<script src="js/three/stats.min.js"></script>
+
+		<script id="vertexShader" type="x-shader/x-vertex">
+			varying vec3 vPos;
+			varying vec3 vNormal;
+			uniform float timeDelta;
+			uniform vec3 clickedCenters[5];
+			uniform int clickedCenterCount;
+			uniform float magnitude;
+			uniform float size;
+			uniform float speed;
+
+			const int MAX_CENTERS = 5;
+			void main() {
+				vec3 p = position;
+				for (int i=0; i<MAX_CENTERS; i++){
+					if( i >= clickedCenterCount) break;
+					vec3 center = clickedCenters[i];
+					float distance = 80.0;
+					float x  = length(p-center);
+					distance = x;
+					float vMagnitude = max(magnitude - distance/100.0, 0.0);
+					p.z += sin(distance / -size + (timeDelta / speed)) * vMagnitude;
+				}
+				vec4 modelViewPosition = modelViewMatrix * vec4(p, 1.0);
+				vPos = modelViewPosition.xyz;
+				vNormal = normalMatrix * normal;
+
+
+				gl_Position = projectionMatrix * modelViewPosition;
+			}
+		</script>
+		<script id="fragmentBasicShader" type="x-shader/x-fragment">
+			uniform vec3 diffuse;
+			uniform vec3 specular;
+			varying vec3 vPos;
+			varying vec3 vNormal;
+			const int MAX_DIR_LIGHTS = 1;
+
+			struct PointLight {
+				vec3 position;
+				vec3 color;
+			};
+
+			struct DirectionalLight {
+				vec3 direction;
+				vec3 color;
+			};
+
+			uniform PointLight pointLights [NUM_POINT_LIGHTS ];
+			uniform DirectionalLight directionalLights [MAX_DIR_LIGHTS ];
+
+			void main() {
+				vec4 addedLights = vec4(0.1, 0.1, 0.1, 1.0);
+				//vec3 N = normalize (vNormal); //NORMAL
+				vec3 V = -vPos; //VIEW VECTOR
+				vec3 N = normalize( cross( dFdx( V ), dFdy( V ) ) );
+
+				for(int l = 0; l < NUM_POINT_LIGHTS; l++) {
+					vec3 L = normalize(vPos - pointLights[l].position);
+					vec3 R = reflect(-L, N); //REFLECTION FROM LIGHT
+					float dist = distance(vPos, pointLights[l].position);
+					float attenuation = 1.0 / (1.0 + 0.000001*dist);
+					float spec = 0.5 * max(0.0, pow(dot(R, normalize(V)), 80.0));
+					addedLights.rgb += attenuation*clamp(dot(-L, N), 0.0, 1.0) * pointLights[l].color;
+					addedLights.rgb += spec * specular;
+				}
+				for(int l = 0; l < MAX_DIR_LIGHTS; l++) {
+					vec4 L = viewMatrix*vec4(directionalLights[l].direction, 0.0);
+					vec3 dir = normalize(L.xyz);
+					//addedLights.rgb += clamp(dot(dir, N), 0.0, 1.0) * directionalLights[l].color;
+				}
+				gl_FragColor = addedLights + 0.6*vec4(diffuse, 0.5);
+				//gl_FragColor = addedLights;
+			}
+
+		</script>
+		<script>
+
+		class Plane {
+	    constructor() {
+        var geometry = new THREE.PlaneGeometry(9000, 6000, 400, 400);
+				var uniform = {
+					diffuse: {type: 'c', value: new THREE.Color(0x5F15FF)},
+					specular: {type: 'c', value: new THREE.Color(0xFFFFFF)},
+					timeDelta: {value: 0},
+					clickedCenters: { type: "v3v", value: [
+						new THREE.Vector3(0,0,0),
+						new THREE.Vector3(0,0,0),
+						new THREE.Vector3(0,0,0),
+						new THREE.Vector3(0,0,0),
+						new THREE.Vector3(0,0,0) ] },
+					clickedCenterCount: {type: "i", value: 0},
+					magnitude : {value: 100},
+					size: {value: 150},
+					speed: {value: 80}
+
+				}
+				this.uniforms = THREE.UniformsUtils.merge([THREE.UniformsLib['lights'], uniform])
+				console.log(THREE.UniformsLib['lights']);
+				var material = new THREE.ShaderMaterial({
+					uniforms: this.uniforms,
+					vertexShader: document.getElementById( 'vertexShader' ).textContent,
+					fragmentShader: document.getElementById( 'fragmentBasicShader' ).textContent,
+					lights: true,
+					side: THREE.DoubleSide,
+					transparent: true,
+					derivatives: true
+				});
+
+        this.mesh = new THREE.Mesh(geometry, material);
+        this.mesh.rotation.x = -0.5 * Math.PI;
+        this.mesh.position.set(0, 0, 0);
+
+        this.vCount = this.mesh.geometry.vertices.length;
+				this.startTime = Date.now();
+				this.timeDelta = 0;
+	    }
+
+		  update(timeStamp) {
+				this.timeDelta = timeStamp - this.startTime;
+				this.mesh.material.uniforms.timeDelta.value = this.timeDelta;
+		   }
+		}
+
+
+		var renderer, scene, camera, controls, plane, stats;
+
+		function init() {
+
+			//renderer
+			renderer = new THREE.WebGLRenderer();
+			renderer.setPixelRatio(window.devicePixelRatio);
+			renderer.setSize(window.innerWidth, window.innerHeight);
+			//create scene
+			scene = new THREE.Scene();
+			//camera
+			camera = new THREE.PerspectiveCamera(
+					75,
+					window.innerWidth / window.innerHeight,
+					1,
+					10000);
+			camera.position.set(0, 5500, 0);
+			camera.lookAt(0, 0, 0);
+
+			// Controls
+			controls = new THREE.OrbitControls( camera, renderer.domElement);
+			controls.userPan = false;
+			controls.userPanSpeed = 0.0;
+			controls.maxDistance = 5000.0;
+			controls.target.set(0, 0, 0);
+
+			// Light
+			pointLight = new THREE.PointLight(0x2f00c8, 1);
+			pointLight.position.set(-4500.0, 2000.0, 0.0);
+			scene.add(pointLight);
+			pointLight2 = new THREE.PointLight(0x42F58D, 1);
+			pointLight2.position.set(4500.0, 2000.0, 0.0);
+			scene.add(pointLight2);
+			directionalLight = new THREE.DirectionalLight(0x2f00c8, 1);
+			directionalLight.position.set(-20, 20, 30);
+			scene.add(directionalLight);
+
+			plane = new Plane();
+			console.log(plane)
+			scene.add(plane.mesh);
+
+			var container = document.getElementById( 'container' );
+			container.appendChild( renderer.domElement );
+			window.addEventListener('resize', onResize);
+			window.addEventListener('click', function(event) {
+				mouse = new THREE.Vector2();
+				mouse.x = ( event.clientX / window.innerWidth ) * 2 - 1;
+				mouse.y = - ( event.clientY / window.innerHeight ) * 2 + 1;
+				var raycaster = new THREE.Raycaster();
+				raycaster.setFromCamera( mouse.clone(), camera );
+				//find where camera intersects the x-y plane
+
+				console.log(raycaster);
+				var m = -raycaster.ray.origin.y/raycaster.ray.direction.y;
+				var x = m*raycaster.ray.direction.x +raycaster.ray.origin.x;
+				var z = m*raycaster.ray.direction.z +raycaster.ray.origin.z;
+
+				if( Math.abs(x) < 4500 && Math.abs(z) < 3000){
+					plane.mesh.material.uniforms.clickedCenters.value[plane.mesh.material.uniforms.clickedCenterCount.value] = new THREE.Vector3(x, -z, 0);
+					plane.mesh.material.uniforms.clickedCenterCount.value += 1;
+				}
+			});
+			window.addEventListener('keyup', function(event) {
+				if(event.keyCode == 83){
+					if(document.getElementById('stats').style.display == "none")
+						document.getElementById('stats').style.display = "inline";
+					else{
+						document.getElementById('stats').style.display = "none";
+					}
+				}
+			});
+			var params = {
+				magnitude: 100,
+				size: 150,
+				speed: 80
+			};
+			var gui = new dat.GUI();
+				gui.add( params, 'magnitude', 0, 200 ).step( 1 ).name( 'magnitude' ).onChange( function ( value ) {
+					plane.mesh.material.uniforms.magnitude.value = value;
+					render();
+				} );
+				gui.add( params, 'size', 0, 200 ).step( 1 ).name( 'size' ).onChange( function ( value ) {
+					plane.mesh.material.uniforms.size.value = value;
+					render();
+				} );
+				gui.add( params, 'speed', 0, 300 ).step( 1 ).name( 'speed' ).onChange( function ( value ) {
+					plane.mesh.material.uniforms.speed.value = 300-value;
+					render();
+				} );
+
+				stats = new Stats();
+				stats.dom.id = "stats";
+				stats.dom.style.display = "none";
+				document.body.appendChild( stats.dom );
+
+		}  // End of init
+
+		function onResize() {
+			const { innerWidth, innerHeight } = window;
+			renderer.setSize(innerWidth, innerHeight);
+			camera.aspect = innerWidth / innerHeight;
+			camera.updateProjectionMatrix();
+		}
+
+		function render(timeStamp) {
+			plane.update(timeStamp);
+			controls.update();
+			stats.begin();
+			renderer.render(scene, camera);
+			stats.end();
+		}
+
+		var timeStamp;
+		function animate() {
+			requestAnimationFrame( animate );
+			timeStamp = Date.now();
+			render(timeStamp);
+		}
+
+		init();
+		animate();
+
+		</script>
+	</body>
+</html>

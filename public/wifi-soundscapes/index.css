@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+
+#info {
+  position: absolute;
+  width:275px;
+  height: 325px;
+  bottom: 30px;
+  left: 30px;
+  padding: 18px;
+  background-color: transparent;
+  font-family: monospace;
+  color: #1effff;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 15px;
+  display: none;
+}
+
+#title {
+  position: absolute;
+  font-family: monospace;
+  color: #9000aa;
+  font-size: 25px;
+  display: block;
+  text-align: center;
+  padding: 10px;
+  left: 50%;
+  line-height: 1;
+  transform: translate(-50%, 0%);
+  width: 30%;
+}
+
+p4 {
+    font-size: 15px;
+}
+
+p2 {
+    color: #FF00FF;
+    font-weight: bold;
+}

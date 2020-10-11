@@ -1,0 +1,48 @@
+.projectBox {
+  display: inline-block;
+}
+
+.projectLink {
+  position: relative;
+}
+
+.projectLink:hover > .overlay {
+  visibility: visible;
+}
+
+.projectLink:hover > img {
+  cursor: pointer;
+  filter: grayscale(100%);
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+  visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.projectTitle {
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.9);
+  display: none;
+  letter-spacing: 2px;
+  z-index: 12;
+  display: flex;
+}
+
+.description {
+  line-height: 18px;
+}
+
+@media (max-width: 768px) {
+  .projectLink > .overlay {
+    display: none;
+  }
+}
