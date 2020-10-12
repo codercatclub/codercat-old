@@ -11,10 +11,8 @@ const __dirname = path.resolve();
 
 if (process.env.DEV) {
   codercat.use(express.static('public'));
-  codercat.use(express.static('public/html'));
 } else {
-  codercat.use(express.static('build'));
-  codercat.use(express.static('build/html'));
+  codercat.use(express.static('out'));
 }
 
 // Frontend routes for react router

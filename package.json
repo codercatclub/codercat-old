@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "concurrently --kill-others-on-fail 'next dev' 'nodemon server.mjs'",
     "build": "next build && next export",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "./tools/deploy.sh"
   },
   "dependencies": {
     "express": "^4.17.1",
