@@ -17,7 +17,7 @@ const SocialIcons: FC<SocialIconsProps> = ({ users }) => (
   <div className={styles.container}>
     {users.map(user => (
       <div className={styles.link} key={user.name}>
-        <span className="social-media-item">
+        <span className={styles.item}>
           {user.name}
         </span>
         <a href={user.github} target="_blank">

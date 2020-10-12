@@ -1,0 +1,31 @@
+.aboutContainer p {
+  text-align: justify;
+  line-height: 25px;
+}
+
+.avatars {
+  display: flex;
+}
+
+.avatars img:first-child {
+  margin: 0 5px 0 0;
+}
+
+.img {
+  max-width: 100%;
+}
+
+@media (max-width: 800px) {
+  .avatars {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .avatars img:first-child {
+    margin: 0 0 5px 0;
+  }
+
+  .aboutContainer {
+    padding: 0 20px 0 20px;
+  }
+}

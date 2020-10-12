@@ -15,8 +15,13 @@ h1 {
   margin: 0px;
 }
 
+h2 {
+  font-size: 20px;
+}
+
 li {
   list-style: none;
+  line-height: 24px;
 }
 
 hr {
@@ -40,28 +45,8 @@ a {
   margin: 0 auto 150px auto;
 }
 
-#scroll-down-btn-container {
-  position: absolute;
-  bottom: 40px;
-  left: 50%;
-}
-
-#scroll-down-btn {
-  width: 20px;
-  height: 20px;
-  transform: rotate(45deg);
-  border-right: 2px rgba(0, 0, 0, 0.5) solid;
-  border-bottom: 2px rgba(0, 0, 0, 0.5) solid;
-}
-
-#about-container p {
-  text-align: justify;
-  line-height: 25px;
-}
-
 .contact-entry {
   margin-left: 10px;
-  display: inline-block;
 }
 
 @media (max-width: 800px) {
@@ -69,16 +54,16 @@ a {
     --views-width: 410px;
     --proj-box-size: 195px;
   }
+
+  .contact-container {
+    padding: 0 20px 0 20px;
+  }
 }
 
 @media (max-width: 600px) {
   :root {
     --views-width: 400px;
     --proj-box-size: 400px;
-  }
-
-  #scroll-down-btn-container {
-    visibility: hidden;
   }
 }
 

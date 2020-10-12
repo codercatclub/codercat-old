@@ -11,8 +11,8 @@ const Menu: FC<MenuProps> = ({ currentRoute }) => {
   const menuItems = [
     { route: 'https://www.patreon.com/codercat', name: 'Support Us' },
     { route: '/about', name: 'About' },
-    { route: '/contacts', name: 'Contacts' },
-    { route: '/', name: 'Codercat' },
+    { route: '/contact', name: 'Contact' },
+    { route: '/', name: 'Projects' },
   ];
 
   return (
