@@ -1,5 +1,4 @@
-import React from 'react';
-import projects from '../../constants/projects';
+import React, { FC } from 'react';
 import s from './index.module.css';
 
 const serverURL = process.env.CODERCAT_SERVER_URL || '';
@@ -8,10 +7,22 @@ if (!serverURL) {
   console.log('[-] CODERCAT_SERVER_URL is not set. Projects links might not work.');
 }
 
-const makeProjectLink = (route) => route.startsWith('http') ? route : `${serverURL}/${route}`;
+const makeProjectLink = (route: string) => route.startsWith('http') ? route : `${serverURL}/${route}`;
 
-const ProjectsView = () => {
-  // Coder cat logo colors
+interface Project {
+  name: string;
+  description: string;
+  img: string;
+  entry: string;
+  public: string;
+  route: string;
+}
+
+interface ProjectsViewProps {
+  projects: Project[];
+}
+
+const ProjectsView: FC<ProjectsViewProps> = ({ projects }) => {
   const overlayColors = [
     '#fffc0d',
     '#ff00ff',
@@ -24,6 +35,7 @@ const ProjectsView = () => {
   const projectElements = projects.map((project) => {
     const overlayColor = overlayColors[colorIndex % overlayColors.length];
     colorIndex++;
+  
     return (
       <a
         id="project-box"

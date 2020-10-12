@@ -1,9 +1,14 @@
+import React, { FC } from 'react';
 import "../styles/globals.css";
-import Menu from "../components/Menu";
 import SocialIcons from "../components/SocialIcons";
 import Head from "next/head";
 
-function MyApp({ Component, pageProps }) {
+type MyAppProps = {
+  Component: typeof React.Component;
+  pageProps: string[];
+};
+
+const MyApp: FC<MyAppProps> = ({ Component, pageProps }) => {
   return (
     <>
       <Head>
@@ -15,7 +20,6 @@ function MyApp({ Component, pageProps }) {
         ></link>
       </Head>
       <div className="center-container">
-        <Menu />
         <Component {...pageProps} />
         <SocialIcons />
       </div>

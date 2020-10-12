@@ -67,7 +67,7 @@ a {
 
 .center-container {
   width: var(--views-width);
-  margin: auto;
+  margin: 0 auto 150px auto;
 }
 
 #scroll-down-btn-container {

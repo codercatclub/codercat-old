@@ -1,8 +1,11 @@
 import React from "react";
+import Menu from "../components/Menu";
 import { contacts } from "../constants";
 
 export default function Contacts() {
   return (
+    <>
+    <Menu currentRoute="/contacts" />
     <div id="contact">
       <h1>Contact</h1>
       {contacts.map((i) => (
@@ -12,5 +15,6 @@ export default function Contacts() {
         </div>
       ))}
     </div>
+    </>
   );
 }
