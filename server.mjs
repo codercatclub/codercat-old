@@ -9,14 +9,11 @@ const codercat = express();
 const port = 8081;
 const __dirname = path.resolve();
 
-if (process.env.DEV) {
-  codercat.use(express.static('public'));
-} else {
-  codercat.use(express.static('out'));
-}
+// Serve main site static files first
+codercat.use(express.static('out', { extensions: ['html'] }));
 
 projects.forEach((app) => {
-  const expressApp = express();
+  const subApp = express();
 
   if (!app.public) {
     // Skip projects that do not have sub apps
@@ -24,14 +21,20 @@ projects.forEach((app) => {
   }
 
   for (let i = 0; i < app.public.length; i += 1) {
-    expressApp.use(express.static(app.public[i], { extensions: ['html'] }));
+    subApp.use(express.static(app.public[i], { extensions: ['html'] }));
   }
 
-  expressApp.get('/', (req, res) => {
+  subApp.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, app.entry));
   });
 
-  codercat.use('/' + app.route, expressApp);
+  const appRoute = '/' + app.route;
+
+  console.log('[+] Hosting', app.name, 'under', appRoute);
+
+  // Each app will be server on sub-route
+  // with its own configuration and set of public assets
+  codercat.use(appRoute, subApp);
 });
 
 // Start server
