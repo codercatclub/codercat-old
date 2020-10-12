@@ -15,17 +15,6 @@ if (process.env.DEV) {
   codercat.use(express.static('out'));
 }
 
-// Frontend routes for react router
-codercat.get('/gallery', (req, res) => {
-  res.sendFile(path.join(__dirname, 'build', 'index.html'));
-});
-codercat.get('/contact', (req, res) => {
-  res.sendFile(path.join(__dirname, 'build', 'index.html'));
-});
-codercat.get('/about', (req, res) => {
-  res.sendFile(path.join(__dirname, 'build', 'index.html'));
-});
-
 projects.forEach((app) => {
   const expressApp = express();
 
