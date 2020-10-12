@@ -4,6 +4,26 @@
 
 .projectLink {
   position: relative;
+  text-decoration: none;
+  float: left;
+  width: var(--proj-box-size);
+  height: var(--proj-box-size);
+  margin: 3px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 2px rgba(0,0,0,.24);
+}
+
+.projectLink:hover > #box-title {
+  display: block;
+}
+
+.projectLink img {
+  max-height: 100%;
+}
+
+.projectLink:hover {
+  opacity: 1;
+  box-shadow: 2px 3px 2px rgba(0,0,0,.19), 0 6px 6px rgba(0,0,0,.23);
 }
 
 .projectLink:hover > .overlay {
@@ -44,5 +64,15 @@
 @media (max-width: 768px) {
   .projectLink > .overlay {
     display: none;
+  }
+
+  .projectsView {
+    height: auto;
+  }
+}
+
+@media (max-width: 400px) {
+  .projectLink {
+    margin: 3px 0 3px 0;
   }
 }

@@ -38,7 +38,6 @@ const ProjectsView: FC<ProjectsViewProps> = ({ projects }) => {
   
     return (
       <a
-        id="project-box"
         href={makeProjectLink(project.route)}
         key={project.name}
         className={s.projectLink}
@@ -53,7 +52,7 @@ const ProjectsView: FC<ProjectsViewProps> = ({ projects }) => {
   });
 
   return (
-    <div className="view" id="projects-view">
+    <div className={s.projectsView}>
       <div className={s.projectBox} id="project-container">
         {projectElements}
       </div>

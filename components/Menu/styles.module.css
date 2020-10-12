@@ -1,0 +1,35 @@
+.menu {
+  display: block;
+  height: 70px;
+  margin-top: 50px;
+}
+
+.menuList {
+  display: block;
+  float: right;
+  margin-right: 10px;
+  margin-top: 36px;
+}
+
+.menuListItem {
+  display: block;
+  float: right;
+  margin-left: 10px;
+}
+
+.menuListItem:hover {
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .menu {
+    margin-top: auto;
+    margin-right: 20px;
+  }
+}
+
+@media (max-width: 400px) {
+  .menuList {
+    padding-left: 10px;
+  }
+}

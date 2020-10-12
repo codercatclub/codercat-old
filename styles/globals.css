@@ -35,36 +35,6 @@ a {
   margin-bottom: 100px;
 }
 
-#menu {
-  display: block;
-  height: 70px;
-  margin-top: 50px;
-}
-
-#menu-title {
-  display: block;
-  float: left;
-  font-size: 55px;
-  color: rgba(68, 68, 68, 0.7);
-}
-
-#menu-list {
-  display: block;
-  float: right;
-  margin-right: 10px;
-  margin-top: 36px;
-}
-
-.menu-list-item {
-  display: block;
-  float: right;
-  margin-left: 10px;
-}
-
-.menu-list-item:hover {
-  cursor: pointer;
-}
-
 .center-container {
   width: var(--views-width);
   margin: 0 auto 150px auto;
@@ -89,42 +59,9 @@ a {
   line-height: 25px;
 }
 
-#project-box {
-  text-decoration: none;
-  float: left;
-  width: var(--proj-box-size);
-  height: var(--proj-box-size);
-  margin: 3px;
-  overflow: hidden;
-  box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 2px rgba(0,0,0,.24);
-}
-
-#project-box:hover > #box-title {
-  display: block;
-}
-
-#project-box img {
-  max-height: 100%;
-}
-
-#project-box:hover {
-  opacity: 1;
-  box-shadow: 2px 3px 2px rgba(0,0,0,.19), 0 6px 6px rgba(0,0,0,.23);
-}
-
 .contact-entry {
   margin-left: 10px;
   display: inline-block;
-}
-
-.social-media-link-not-ad {
-  float: right;
-  margin-left: 10px;
-  margin-top: 20px;
-}
-
-.social-media-item {
-  margin: 3px;
 }
 
 @media (max-width: 800px) {
@@ -132,19 +69,12 @@ a {
     --views-width: 410px;
     --proj-box-size: 195px;
   }
-  #projects-view {
-    height: auto;
-  }
 }
 
 @media (max-width: 600px) {
   :root {
     --views-width: 400px;
     --proj-box-size: 400px;
-  }
-  #menu {
-    margin-top: auto;
-    margin-right: 20px;
   }
 
   #scroll-down-btn-container {
@@ -156,13 +86,5 @@ a {
   :root {
     --views-width: 100vw;
     --proj-box-size: 100vw;
-  }
-
-  #menu-list {
-    padding-left: 10px;
-  }
-
-  #project-box {
-    margin: 3px 0 3px 0;
   }
 }

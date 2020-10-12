@@ -8,6 +8,21 @@ type MyAppProps = {
   pageProps: string[];
 };
 
+const socialIconsUsers = [
+  {
+    name: 'kirill',
+    github: 'https://github.com/kif11',
+    instagram: 'https://instagram.com/kif11',
+    twitter: 'https://twitter.com/kovalewskiy',
+  },
+  {
+    name: 'sneha',
+    github: 'https://github.com/sneha-belkhale',
+    instagram: 'https://www.instagram.com/snayss/',
+    twitter: 'https://twitter.com/snayyss',
+  },
+];
+
 const MyApp: FC<MyAppProps> = ({ Component, pageProps }) => {
   return (
     <>
@@ -21,7 +36,7 @@ const MyApp: FC<MyAppProps> = ({ Component, pageProps }) => {
       </Head>
       <div className="center-container">
         <Component {...pageProps} />
-        <SocialIcons />
+        <SocialIcons users={socialIconsUsers} />
       </div>
     </>
   );
