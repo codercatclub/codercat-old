@@ -1,5 +1,17 @@
 [
   {
+    "name": "MARS 0",
+    "description": "Chiba's workshop where they prototyped the cyborgs that would be
+    put through the experimental simulation of Mars College.",
+    "img": "img/projects/mars-simulation-0.jpg",
+    "entry": "projects/mars-simulation-0/index.html",
+    "public": [
+      "projects/mars-simulation-0"
+    ],
+    "route": "mars-simulation-0"
+  },
+  {
+    
     "name": "DYING TO FIND",
     "description": "A moody WebVR piece, where you find yourself stranded in the residues and routines of a past civilization. They may have lost their purpose, but you are dying to find it.",
     "img": "img/projects/dying-to-find.jpg",
