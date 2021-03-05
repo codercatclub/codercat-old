@@ -1,8 +1,7 @@
 [
   {
     "name": "MARS 0",
-    "description": "Chiba's workshop where they prototyped the cyborgs that would be
-    put through the experimental simulation of Mars College.",
+    "description": "Chiba's workshop where they prototyped the cyborgs that would be put through the experimental simulation of Mars College.",
     "img": "img/projects/mars-simulation-0.jpg",
     "entry": "projects/mars-simulation-0/index.html",
     "public": [
