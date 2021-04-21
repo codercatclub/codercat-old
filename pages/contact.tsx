@@ -1,4 +1,5 @@
 import React from "react";
+import Head from "next/head";
 import Menu from "../components/Menu";
 
 const people = [
@@ -19,6 +20,9 @@ const people = [
 
 const Contacts = () => (
   <>
+    <Head>
+      <title>Codercat Contact</title>
+    </Head>
     <Menu currentRoute="/contact" />
     <div className="contact-container">
       {people.map((person) => (

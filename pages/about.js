@@ -1,10 +1,15 @@
 import React from "react";
 import Menu from "../components/Menu";
+import Head from "next/head";
 import s from "../styles/about.module.css";
 
 export default function About() {
   return (
     <>
+      <Head>
+        <title>Codercat About</title>
+      </Head>
+
       <Menu currentRoute="/about" />
 
       <div className={s.aboutContainer}>

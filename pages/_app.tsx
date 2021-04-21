@@ -27,8 +27,12 @@ const MyApp: FC<MyAppProps> = ({ Component, pageProps }) => {
   return (
     <>
       <Head>
-        <title>Codercat</title>
-        <link rel="icon" type="image/png" href="/favicon.png"/>
+        <title>Codercat Studio</title>
+
+        <meta name="description" content="Codercat is collective of engineers and artist who strive to make a positive social impact trough the power of modern technology and art." />
+        <meta name="keywords" content="art, webgl, programming, activism, 3d, graphics, threejs, aframe, code, gallery, vr, webvr, virtual reality, shaders, houdinifx, visual effects, group, collective" />
+
+        <link rel="icon" type="image/png" href="/favicon.png" />
         <link
           rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
