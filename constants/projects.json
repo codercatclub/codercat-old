@@ -1,5 +1,6 @@
 [
   {
+    
     "name": "DYING TO FIND",
     "description": "A moody WebVR piece, where you find yourself stranded in the residues and routines of a past civilization. They may have lost their purpose, but you are dying to find it.",
     "img": "img/projects/dying-to-find.jpg",
@@ -10,10 +11,27 @@
     "route": "dying-to-find"
   },
   {
+    "name": "MARS 0",
+    "description": "Chiba's workshop where they prototyped the cyborgs that would be put through the experimental simulation of Mars College.",
+    "img": "img/projects/mars-simulation-0.jpg",
+    "entry": "projects/mars-simulation-0/index.html",
+    "public": [
+      "projects/mars-simulation-0"
+    ],
+    "route": "mars-simulation-0"
+  },
+  {
     "name": "THE UNDER PRESENTS",
     "description": "In collaboration with Tender Claws. An immersive live theater experience in Virtual Reality.",
     "img": "img/projects/the-under-presents.png",
     "route": "https://tenderclaws.com/theunderpresents"
+  },
+  {
+    "name": "PURPOSE PRO 2",
+    "description":
+      "In collaboration with Justin Beiber. ThreeJS development for a browser skating game -- skate with Justin!",
+    "img": "img/projects/purpose-pro-2.jpg",
+    "route": "https://purposepro.justinbiebermusic.com/"
   },
   {
     "name": "MONSTER OR FRIEND",
