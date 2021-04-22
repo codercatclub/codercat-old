@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+export CODERCAT_SERVER_URL="https://codercat.tk"
+
+yarn build
+
 # Sync static codercat build
 rsync -av out/ kiko@codercat.tk:~/codercat2/out/
 
