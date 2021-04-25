@@ -1,6 +1,5 @@
 [
-  {
-    
+  { 
     "name": "ANOTHER SPACE",
     "description": "Virtual reality gallery that highlights works of 43 artist from around the world.",
     "img": "img/projects/another-space.jpg",
@@ -11,7 +10,6 @@
     "route": "another-space"
   },
   {
-    
     "name": "DYING TO FIND",
     "description": "A moody WebVR piece, where you find yourself stranded in the residues and routines of a past civilization.",
     "img": "img/projects/dying-to-find.jpg",
