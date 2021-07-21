@@ -13,7 +13,7 @@ yarn dev
 
 Upload new project thumnail to public/img
 Upload project build under projects/<name>
-Create new entry in src/constants/projects.js
+Create new entry in constants/projects.js
 Build and restart codercat server `yarn build && sudo systemctl restart codercat`
 
 Thumbnail requirements:

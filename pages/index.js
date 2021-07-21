@@ -10,7 +10,7 @@ export default function Home() {
         <title>Codercat Projects</title>
       </Head>
       <Menu currentRoute="/" />
-      <ProjectsList projects={projects} />
+      <ProjectsList projects={projects.filter((p) => p.published)} />
     </>
   );
 }

@@ -1,5 +1,16 @@
 [
   { 
+    "name": "DREAM DEAMON",
+    "description": "Reacreation of Dream Deamon house",
+    "img": "",
+    "entry": "projects/dream_deamon/index.html",
+    "public": [
+      "projects/dream_deamon"
+    ],
+    "route": "dream-deamon",
+    "published": false
+  },
+  { 
     "name": "ANOTHER SPACE",
     "description": "Virtual reality gallery that highlights works of 43 artist from around the world.",
     "img": "img/projects/another-space.jpg",
@@ -7,7 +18,8 @@
     "public": [
       "projects/another-space"
     ],
-    "route": "another-space"
+    "route": "another-space",
+    "published": true
   },
   {
     "name": "DYING TO FIND",
@@ -17,7 +29,8 @@
     "public": [
       "projects/dying-to-find"
     ],
-    "route": "dying-to-find"
+    "route": "dying-to-find",
+    "published": true
   },
   {
     "name": "MARS 0",
@@ -27,20 +40,23 @@
     "public": [
       "projects/mars-simulation-0"
     ],
-    "route": "mars-simulation-0"
+    "route": "mars-simulation-0",
+    "published": true
   },
   {
     "name": "THE UNDER PRESENTS",
     "description": "In collaboration with Tender Claws. An immersive live theater experience in Virtual Reality.",
     "img": "img/projects/the-under-presents.png",
-    "route": "https://tenderclaws.com/theunderpresents"
+    "route": "https://tenderclaws.com/theunderpresents",
+    "published": true
   },
   {
     "name": "PURPOSE PRO 2",
     "description":
       "In collaboration with Justin Beiber. ThreeJS development for a browser skating game -- skate with Justin!",
     "img": "img/projects/purpose-pro-2.jpg",
-    "route": "https://purposepro.justinbiebermusic.com/"
+    "route": "https://purposepro.justinbiebermusic.com/",
+    "published": true
   },
   {
     "name": "MONSTER OR FRIEND",
@@ -50,7 +66,8 @@
     "public": [
       "projects/monster-or-friend/dist"
     ],
-    "route": "monster-or-friend"
+    "route": "monster-or-friend",
+    "published": true
   },
   {
     "name": "MELT",
@@ -60,7 +77,8 @@
     "public": [
       "projects/melt/dist"
     ],
-    "route": "melt"
+    "route": "melt",
+    "published": true
   },
   {
     "name": "FLUX",
@@ -70,7 +88,8 @@
     "public": [
       "projects/flux/out"
     ],
-    "route": "flux"
+    "route": "flux",
+    "published": true
   },
   {
     "name": "MA",
@@ -80,13 +99,15 @@
     "public": [
       "projects/ma/dist"
     ],
-    "route": "ma"
+    "route": "ma",
+    "published": true
   },
   {
     "name": "WIFI SOUNDSCAPES",
     "description": "Revealing the intangible dimension of WiFi packets with tcpdump and Foxdot. Data was captured on a road trip from LA to Denver.",
     "img": "img/projects/wifi-soundscapes.jpg",
-    "route": "wifi-soundscapes/index.html"
+    "route": "wifi-soundscapes/index.html",
+    "published": true
   },
   {
     "name": "READ ME",
@@ -96,19 +117,22 @@
     "public": [
       "projects/readme"
     ],
-    "route": "readme"
+    "route": "readme",
+    "published": true
   },
   {
     "name": "ALCHEMY PAINTER",
     "description": "VR color alchemy experience. Mix dynamic fluids in an intuitive and novel way using a virtual syringe.",
     "img": "img/projects/alchemy-painter.jpg",
-    "route": "https://sidequestvr.com/#/app/226"
+    "route": "https://sidequestvr.com/#/app/226",
+    "published": true
   },
   {
     "name": "MONSTER WITHIN",
     "description": "A short interactive Virtual Reality experience about the unpredictable nature of social acceptance.",
     "img": "img/projects/monster-within.jpg",
-    "route": "monster-within.html"
+    "route": "monster-within.html",
+    "published": true
   },
   {
     "name": "THREE BODY",
@@ -118,7 +142,8 @@
     "public": [
       "projects/three-body/dist"
     ],
-    "route": "three-body"
+    "route": "three-body",
+    "published": true
   },
   {
     "name": "AI ANIMATION",
@@ -128,7 +153,8 @@
     "public": [
       "projects/ai-animation/build"
     ],
-    "route": "ai-animation"
+    "route": "ai-animation",
+    "published": true
   },
   {
     "name": "GENDERGRAPH",
@@ -138,13 +164,15 @@
     "public": [
       "projects/gender-graph/public"
     ],
-    "route": "gendergraph"
+    "route": "gendergraph",
+    "published": true
   },
   {
     "name": "STARLING SIMULATION",
     "description": "In collaboration with Small Data Industry. A bird floacking simulation made with three.js.",
     "img": "img/projects/starling.jpg",
-    "route": "https://starlingstorage.io/"
+    "route": "https://starlingstorage.io/",
+    "published": true
   },
   {
     "name": "PROCEDURAL IK CRAWLER",
@@ -154,19 +182,22 @@
     "public": [
       "projects/procedural-ik-crawler/build"
     ],
-    "route": "procedural-ik-crawler"
+    "route": "procedural-ik-crawler",
+    "published": true
   },
   {
     "name": "ANTICAP",
     "description": "Bypass any captive portal and get free WiFi easily 😝 Go tool to automate capturing packets in monitor mode and MAC spoofing.",
     "img": "img/projects/anticap.jpg",
-    "route": "https://github.com/Kif11/anticap"
+    "route": "https://github.com/Kif11/anticap",
+    "published": true
   },
   {
     "name": "STREET SOUNDS",
     "description": "Encode an audio message into QR codes that can be posted on a wall as a time capsule. Anyone can decode these QRs with an app for iOS or Android.",
     "img": "img/projects/street-sonds.jpg",
-    "route": "street-sounds"
+    "route": "street-sounds",
+    "published": true
   },
   {
     "name": "RELAXATION ROOM",
@@ -176,13 +207,15 @@
     "public": [
       "projects/relaxation-room/build"
     ],
-    "route": "relaxation-room"
+    "route": "relaxation-room",
+    "published": true
   },
   {
     "name": "BOX PROJECTED ENVIRONMENT MAPPING",
     "description": "A contribution to three.js library showing how to get accurate reflections in room environments.",
     "img": "img/projects/bpcem.jpg",
-    "route": "https://threejs.org/examples/?q=envm#webgl_materials_envmaps_parallax"
+    "route": "https://threejs.org/examples/?q=envm#webgl_materials_envmaps_parallax",
+    "published": true
   },
   {
     "name": "GALACTIC GYPSY",
@@ -192,13 +225,15 @@
     "public": [
       "projects/galactic-gypsy/build"
     ],
-    "route": "galactic-gypsy"
+    "route": "galactic-gypsy",
+    "published": true
   },
   {
     "name": "SKINNED MESH IK",
     "description": "A contribution to three.ik library showing how to apply IK to a rigged model.",
     "img": "img/projects/skinned-mesh-ik.jpg",
-    "route": "https://jsantell.github.io/THREE.IK/examples/#skinned-mesh"
+    "route": "https://jsantell.github.io/THREE.IK/examples/#skinned-mesh",
+    "published": true
   },
   {
     "name": "GROW YOUR OWN BOT",
@@ -208,7 +243,8 @@
     "public": [
       "projects/grow-your-own-bot/build"
     ],
-    "route": "grow-your-own-bot"
+    "route": "grow-your-own-bot",
+    "published": true
   },
   {
     "name": "NEUROJAM",
@@ -218,7 +254,8 @@
     "public": [
       "projects/neurojam-ui/out"
     ],
-    "route": "neurojam"
+    "route": "neurojam",
+    "published": true
   },
   {
     "name": "AR GPU PARTICLES",
@@ -228,7 +265,8 @@
     "public": [
       "projects/AR-GPU-Particles/build"
     ],
-    "route": "ar-gpu-particles"
+    "route": "ar-gpu-particles",
+    "published": true
   },
   {
     "name": "AURACARIA DREAMS",
@@ -238,13 +276,15 @@
     "public": [
       "projects/auracaria-dreams/public"
     ],
-    "route": "auracaria-dreams"
+    "route": "auracaria-dreams",
+    "published": true
   },
   {
     "name": "THREEJS CURVATURE",
     "description": "A contribution to three.js library showing how to calculate mesh curvatures from raw geometry data, and use in shaders.",
     "img": "img/projects/curvatureExample.jpg",
-    "route": "https://threejs.org/examples/#webgl_materials_curvature"
+    "route": "https://threejs.org/examples/#webgl_materials_curvature",
+    "published": true
   },
   {
     "name": "3D TSP HEART",
@@ -254,7 +294,8 @@
     "public": [
       "projects/tsp-3D-art/public"
     ],
-    "route": "tsp-3D-art"
+    "route": "tsp-3D-art",
+    "published": true
   },
   {
     "name": "360 PHOTO TO VIDEO",
@@ -264,7 +305,8 @@
     "public": [
       "projects/360-photo-to-video/public"
     ],
-    "route": "360-photo-to-video"
+    "route": "360-photo-to-video",
+    "published": true
   },
   {
     "name": "VERTEX CACHE",
@@ -274,24 +316,28 @@
     "public": [
       "projects/vertex-texture-cache/public"
     ],
-    "route": "vertex-cache"
+    "route": "vertex-cache",
+    "published": true
   },
   {
     "name": "WHIRPOOLS",
     "description": "Snays first three.js shader showing a simple geometry ripple effect.",
     "img": "img/projects/whirpools.jpg ",
-    "route": "whirlpools.html"
+    "route": "whirlpools.html",
+    "published": true
   },
   {
     "name": "PHOTOSPHERES",
     "description": "360 photo gallery of places around San Francisco made with Ricoh camera and three.js",
     "img": "img/projects/photospheres.jpg ",
-    "route": "photospheres.html"
+    "route": "photospheres.html",
+    "published": true
   },
   {
     "name": "TERMINAL PRINTS",
     "description": "Browse feminist t-shirt prints from a terminal. $: rm -rf patriarchy.",
     "img": "img/projects/terminal-prints.jpg",
-    "route": "terminal-prints.html"
+    "route": "terminal-prints.html",
+    "published": true
   }
 ]
