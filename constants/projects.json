@@ -1,13 +1,13 @@
 [
   { 
-    "name": "DREAM DEAMON",
-    "description": "Reacreation of Dream Deamon house",
+    "name": "DREAM DEMON",
+    "description": "Reacreation of Dream Demon house",
     "img": "",
     "entry": "projects/dream_deamon/index.html",
     "public": [
-      "projects/dream_deamon"
+      "projects/dream_demon"
     ],
-    "route": "dream-deamon",
+    "route": "dream-demon",
     "published": false
   },
   { 
