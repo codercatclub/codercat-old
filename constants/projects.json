@@ -1,14 +1,14 @@
 [
   { 
     "name": "DREAM DEMON",
-    "description": "Reacreation of Dream Demon house",
-    "img": "",
+    "description": "When the spirit of the Dream Demon house awakens...",
+    "img": "img/projects/dream-demon.jpg",
     "entry": "projects/dream_deamon/index.html",
     "public": [
       "projects/dream_demon"
     ],
     "route": "dream-demon",
-    "published": false
+    "published": true
   },
   { 
     "name": "ANOTHER SPACE",
@@ -61,7 +61,7 @@
     "description":
       "In collaboration with Justin Beiber. ThreeJS development for a browser skating game -- skate with Justin!",
     "img": "img/projects/purpose-pro-2.jpg",
-    "route": "https://purposepro.justinbiebermusic.com/",
+    "route": "https://www.youtube.com/watch?v=DpGPDhTqQW8&ab_channel=lagauche",
     "published": true
   },
   {
