@@ -1,5 +1,16 @@
 [
   { 
+    "name": "TOO LATE SHOW",
+    "description": "Hope neurons inside Lora's brain.",
+    "img": "img/projects/too-late-show.jpg",
+    "entry": "projects/too-late-show/index.html",
+    "public": [
+      "projects/too-late-show"
+    ],
+    "route": "too-late-show",
+    "published": true
+  },
+  { 
     "name": "DREAM DEMON",
     "description": "When the spirit of the Dream Demon house awakens...",
     "img": "img/projects/dream-demon.jpg",
@@ -52,7 +63,7 @@
   {
     "name": "THE UNDER PRESENTS",
     "description": "In collaboration with Tender Claws. An immersive live theater experience in Virtual Reality.",
-    "img": "img/projects/the-under-presents.png",
+    "img": "img/projects/the-under-presents.jpg",
     "route": "https://tenderclaws.com/theunderpresents",
     "published": true
   },
@@ -183,7 +194,7 @@
   {
     "name": "PROCEDURAL IK CRAWLER",
     "description": "Evolution of our pet rat :) Exploration of Inverse Kinematic procedural character animation in the browser.",
-    "img": "img/projects/procedural-ik.png",
+    "img": "img/projects/procedural-ik.jpg",
     "entry": "projects/procedural-ik-crawler/build/index.html",
     "public": [
       "projects/procedural-ik-crawler/build"
