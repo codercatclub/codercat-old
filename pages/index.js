@@ -8,12 +8,14 @@ import { socialIconsUsers } from "../constants";
 export default function Home() {
   return (
     <>
-      <Head>
-        <title>Codercat Projects</title>
-      </Head>
-      <Menu currentRoute="/" />
-      <ProjectsList projects={projects.filter((p) => p.published)} />
-      <SocialIcons users={socialIconsUsers} />
+      <div className="center-container">
+        <Head>
+          <title>Codercat Projects</title>
+        </Head>
+        <Menu currentRoute="/" />
+        <ProjectsList projects={projects.filter((p) => p.published)} />
+        <SocialIcons users={socialIconsUsers} />
+      </div>
     </>
   );
 }
