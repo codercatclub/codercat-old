@@ -1,6 +1,8 @@
 import React from "react";
 import Head from "next/head";
 import Menu from "../components/Menu";
+import SocialIcons from "../components/SocialIcons";
+import { socialIconsUsers } from "../constants";
 
 const people = [
   {
@@ -36,6 +38,7 @@ const Contacts = () => (
         </div>
       ))}
     </div>
+    <SocialIcons users={socialIconsUsers} />
   </>
 );
 
