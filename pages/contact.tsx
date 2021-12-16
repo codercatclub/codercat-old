@@ -22,23 +22,25 @@ const people = [
 
 const Contacts = () => (
   <>
-    <Head>
-      <title>Codercat Contact</title>
-    </Head>
-    <Menu currentRoute="/contact" />
-    <div className="contact-container">
-      {people.map((person) => (
-        <div>
-          <h2>{person.name}</h2>
-          <ul>
-            {person.contacts.map(contact => (
-              <li className="contact-entry">{contact.type}: {contact.value}</li>
-            ))}
-          </ul>
-        </div>
-      ))}
+    <div className="center-container">
+      <Head>
+        <title>Codercat Contact</title>
+      </Head>
+      <Menu currentRoute="/contact" />
+      <div className="contact-container">
+        {people.map((person) => (
+          <div>
+            <h2>{person.name}</h2>
+            <ul>
+              {person.contacts.map(contact => (
+                <li className="contact-entry">{contact.type}: {contact.value}</li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+      <SocialIcons users={socialIconsUsers} />
     </div>
-    <SocialIcons users={socialIconsUsers} />
   </>
 );
 

@@ -1,12 +1,35 @@
-.center {
-  width: 80%;
-  margin: auto;
-}
 
 .img {
-  max-width: 100%;
+  max-width: 50%;
 }
 
 .video {
+  max-width: 50%;
+}
+
+.text {
+  display: inline-block;
+  max-width: 40%;
+  padding: 10px;
+  color: white;
+  font-size: 20px;
+  font-family:serif;
+
+}
+
+.title {
   max-width: 100%;
+  color: white;
+  font-size: 100px;
+  font-family:serif;
+}
+.titlesmall {
+  max-width: 100%;
+  color: white;
+  font-size: 30px;
+  font-family:serif;
+}
+.center {
+  background-color: black;
+  margin: 0px auto 150px auto;
 }
