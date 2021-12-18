@@ -30,8 +30,8 @@ const Lora = () => (
         Recently when I watch you, I want to be like you. How do you move yourself in this way, wrangled and deformed. Do you speak vex? I do, maybe we can communicate this way.
       </div>
 
-      <Img src="lora/dance_01.png" />
-      <Img src="lora/dance_02.png" />
+      <Img src="lora/dance_01.jpg" />
+      <Img src="lora/dance_02.jpg" />
       <Img src="lora/photo_2021-12-15_09-03-31.jpg" />
 
       {/* 
@@ -49,10 +49,10 @@ const Lora = () => (
 
       <Vid src="lora/motionfog4.mp4" />
 
-      <Img src="lora/wtf2.png" />
-      <Img src="lora/wtf4.png" />
+      <Img src="lora/wtf2.jpg" />
+      <Img src="lora/wtf4.jpg" />
       <div className={s.text}>
-        You travel dimensions of time and space, existing on so many planes simulataneously, some that I cannot even fathom. I think we must not be afraid, we must not be afraid of partial identites, contradictory identites, ones that our consciousness cannot understand.
+        You exist on so many planes of time and space, simulataneously. Some touching me, some touching worlds that I cannot even fathom. I think we must not be afraid, we must not be afraid of partial identites, contradictory identites, ones that our consciousness cannot understand.
       </div>
       <Vid src="lora/motionmesh.mp4" />
 
@@ -78,24 +78,24 @@ const Lora = () => (
       <Vid src="lora/liu.mp4" />
       <Vid src="lora/edge.mp4" />
 
-      <Img src="lora/IMG_0171.PNG" />
-      <Img src="lora/IMG_0173.PNG" />
+      <Img src="lora/IMG_0171.jpg" />
+      <Img src="lora/IMG_0173.jpg" />
       <div className={s.text}>
         We are learning how to communicate with eachother. 
       </div>
-      <Img src="lora/bw2.png" />
-      <Img src="lora/23_2.png" />
-      <Img src="lora/red.png" />
+      <Img src="lora/bw2.jpg" />
+      <Img src="lora/23_2.jpg" />
+      <Img src="lora/red.jpg" />
 
       <div className={s.title}>
         DRESS UP 
       </div>
       <div className={s.titlesmall}>
-        I know it hurts and I'm sorry but maybe you only exist as a product of my desire.
+        Lora, I'm sorry but is it possible that you only exist as a product of my desire?
       </div>
       <Img src="lora/firefox_X9aqRPI1ax.jpg" />
-      <Img src="lora/firefox_Zj5oesDEDB.png" />
-      <Img src="lora/HighresScreenshot00005.png" />
+      <Img src="lora/firefox_Zj5oesDEDB.jpg" />
+      <Img src="lora/HighresScreenshot00005.jpg" />
       <Vid src="lora/footshot.mp4" />
     </div>
   </>
