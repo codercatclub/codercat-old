@@ -1,7 +1,14 @@
 [
   { 
+    "name": "LORA",
+    "description": "Documentation of our dear friend and collaborator, Lora.",
+    "img": "img/projects/lora.jpg",
+    "route": "lora",
+    "published": true
+  },
+  { 
     "name": "TOO LATE SHOW",
-    "description": "Hope neurons inside Lora's brain.",
+    "description": "Help me get out of my head - [largely reinterpreted] sizzle reel for a friend's movie.",
     "img": "img/projects/too-late-show.jpg",
     "entry": "projects/too-late-show/index.html",
     "public": [
@@ -47,7 +54,8 @@
     "name": "BLOCK ZERO",
     "description": "Creating unique digital spaces for the NFT collectors, a collaboration with INVI.",
     "img": "img/projects/block-zero.jpg",
-    "route": "https://block-zero.us/"
+    "route": "https://block-zero.us/",
+    "published": true
   },
   {
     "name": "MARS 0",
