@@ -1,5 +1,12 @@
 [
   { 
+    "name": "5 GIRLS, 5 ROOMS",
+    "description": "TODO",
+    "img": "TODO",
+    "route": "five-girls",
+    "published": false
+  },
+  { 
     "name": "LORA",
     "description": "Documentation of our dear friend and collaborator, Lora.",
     "img": "img/projects/lora.jpg",
