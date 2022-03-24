@@ -1,7 +1,12 @@
 import React, { FC } from 'react';
 import Link from 'next/link';
 import styles from './styles.module.css';
+import { css } from '@emotion/css';
 
+const link = css`
+  text-decoration: none;
+  color: black;
+`
 interface MenuProps {
   currentRoute: string;
 }
@@ -12,6 +17,7 @@ const Menu: FC<MenuProps> = ({ currentRoute }) => {
     { route: 'https://www.patreon.com/codercat', name: 'Support Us' },
     { route: '/about', name: 'About' },
     { route: '/contact', name: 'Contact' },
+    { route: '/reel', name: 'Reel' },
     { route: '/', name: 'Projects' },
   ];
 
@@ -25,11 +31,12 @@ const Menu: FC<MenuProps> = ({ currentRoute }) => {
             style={currentRoute === i.route
               ? { textDecoration: 'underline' } : { textDecoration: 'none' }}
           >
-            <Link href={i.route}>
-              {i.route.startsWith('http') ? <a target="_blank" rel="noreferrer">
+            <Link href={i.route} passHref>
+              {i.route.startsWith('http') ? <a className={link} target="_blank" rel="noreferrer">
                 {i.name}
-              </a> : i.name}
+              </a> : <div className={link}>{i.name}</div>}
             </Link>
+
           </li>
         ), this)}
       </ul>

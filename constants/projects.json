@@ -1,16 +1,16 @@
 [
-  { 
-    "name": "5 GIRLS, 5 ROOMS",
-    "description": "TODO",
-    "img": "TODO",
-    "route": "five-girls",
-    "published": false
+  {
+    "name": "NEITHER EVER, NOR NEVER",
+    "description": "Live projection performance made with HoudiniFX and motion captured choreography, in collaboration with Leilani Franco.",
+    "img": "img/projects/neither-ever.jpg",
+    "route": "neither-ever",
+    "published": true
   },
   { 
     "name": "LORA",
     "description": "Documentation of our dear friend and collaborator, Lora.",
     "img": "img/projects/lora.jpg",
-    "route": "lora",
+    "route": "lora.html",
     "published": true
   },
   { 

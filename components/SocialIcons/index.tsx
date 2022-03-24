@@ -1,6 +1,11 @@
+import { css } from '@emotion/css';
 import React, { FC } from 'react';
 import styles from './styles.module.css';
 
+const link = css`
+  text-decoration: none;
+  color: black;
+`
 
 interface SocialInfoUser {
   name: string;
@@ -20,13 +25,13 @@ const SocialIcons: FC<SocialIconsProps> = ({ users }) => (
         <span className={styles.item}>
           {user.name}
         </span>
-        <a href={user.github} target="_blank">
+        <a className={link} href={user.github} target="_blank">
           <i className={`fa fa-github ${styles.item}`} />
         </a>
-        <a href={user.instagram} target="_blank">
+        <a className={link} href={user.instagram} target="_blank">
           <i className={`fa fa-instagram  ${styles.item}`} />
         </a>
-        <a href={user.twitter} target="_blank">
+        <a className={link} href={user.twitter} target="_blank">
           <i className={`fa fa-twitter  ${styles.item}`} />
         </a>
       </div>

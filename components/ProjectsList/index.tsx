@@ -13,9 +13,9 @@ interface Project {
   name: string;
   description: string;
   img: string;
-  entry: string;
-  public: string;
   route: string;
+  entry?: string;
+  public?: string[];
 }
 
 interface ProjectsViewProps {
