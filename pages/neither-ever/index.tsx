@@ -9,6 +9,8 @@ const bg = css`
 
 const title = css`
   font-size: 20px;
+  color: #fff;
+  z-index: 1;
 
   @media (max-width: 800px) {
     font-size: 16px;
