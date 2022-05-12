@@ -2,6 +2,9 @@
   "name": "codercat",
   "version": "0.1.0",
   "private": true,
+  "engines" : { 
+    "node" : "16.15.0"
+  },
   "scripts": {
     "dev": "concurrently --kill-others-on-fail 'next dev' 'nodemon server.mjs'",
     "build": "next build && next export",
