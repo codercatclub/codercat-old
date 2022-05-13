@@ -91,8 +91,8 @@ export default function Leilani() {
           We had just finished working on <a className={ln} href='https://codercat.tk/neither-ever' target='_blank'>Neither Ever Nor Never</a> and were ready for the challenge of using live motion capture data in the performance, instead of making a video using pre-recorded animations. After getting the basic setup of live streaming Rokoko motion to Unity, we started thinking about ways in which Leilani could play with the avatars and her own motions.
         </p>
         <p className={par}>
-          We decided on a looping controller, just like in lone wizard music performances, except for motion. When she game the hand signal, I would stop/start recording her motions into an array of bone transforms. Once the recording period ended, the avatar would get stuck in a loop 
-          of the recorded animations. We placed two of these avatars in the scene, one that she looped with her right hand, and one with her left. From there, she was able to control the conflicting emotions of the two Avatars, and juxtapose it with her own motions live. 
+          We decided on a looping controller, like the ones <a className={ln} href='https://www.youtube.com/watch?v=FJ5XUw4qHZo' target='_blank'>lone wizard musicians</a> use, for looping motion instead of audio. When she gave me a hand signal, I would stop/start recording her motions into an array of bone transforms. Once the recording period ended, the avatar would get stuck in a loop 
+          of the recorded animations. We placed two of these avatars in the scene, one that she looped with her right hand, and one with her left. From there, she was able to separately control the two Avatars movements, and juxtapose it with her own live movements to create a dimensional story of conflicting internal emotions. 
         </p>
         <video className={secVid} src="leilani/mocap2.mp4" title="Live Looping Mocap Controller" controls></video>
 
@@ -103,8 +103,8 @@ export default function Leilani() {
 
         <p className={par}>
           I programmed a 6 minute sequence in Unity hooking up a soundtrack and some visual scene transitions, and after a few rehearsals we were so excited to play it live at the <a className={ln} href='http://www.bombaybeachbiennale.org/' target='_blank'>Bombay Beach Biennale</a>. Our location was remote, 
-          on top of a shipping container, so there was about one week of figuring out logistics with making sure all devices were able to connect to each other without internet, and making sure we had power supply, lighting, a projector, and speakers at the location.
-          At the end of all this preparation, we had a traveling Golf Cart that was fully equipped to project and live perform mocap at a location near you:)  
+          on top of a shipping container, so we took about one week of figuring out logistics, making sure all devices were able to connect to each other without internet, and making sure we had our own reliable power supply, lighting, projector, and speakers at the location.
+          At the end of all this preparation, we had a traveling Golf Cart that was fully equipped to project live performed mocap at a location near you:)  
         </p>
         <img className={secVid} src="leilani/golfcart.JPG" title="Fully Functional"></img>
         <img className={secVid} src="leilani/behindthescene.JPG" title="Fully Functional"></img>
