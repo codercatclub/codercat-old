@@ -1,9 +1,17 @@
 [
+
   {
     "name": "NEITHER EVER, NOR NEVER",
     "description": "Live projection performance made with HoudiniFX and motion captured choreography, in collaboration with Leilani Franco.",
     "img": "img/projects/neither-ever.jpg",
     "route": "neither-ever",
+    "published": true
+  },
+  {
+    "name": "TORN",
+    "description": "Realtime live-looped motion capture performance made in Unity, in collaboration with Leilani Franco.",
+    "img": "img/projects/torn.jpg",
+    "route": "torn",
     "published": true
   },
   { 
