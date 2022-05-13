@@ -73,7 +73,7 @@ export default function Leilani() {
   return (
     <div className={bg}>
       <div className={titleContainer}>
-      <h1 className={title}>[TORN] a Realtime Mocap Performance for the Bombay Beach Biennale</h1>
+      <h1 className={title}>[TORN] a Realtime Motion Capture Performance for the Bombay Beach Biennale</h1>
       </div>
       <video className={vid} autoPlay muted={muted} playsInline loop controls>
         <source src="leilani/mocap1.mp4" type="video/mp4"></source>
