@@ -14,6 +14,13 @@
     "route": "torn",
     "published": true
   },
+  {
+    "name": "AUGMENTED",
+    "description": "A gallery of digital cyborgifications made in HoudiniFX.",
+    "img": "img/projects/augmented.jpg",
+    "route": "augmented",
+    "published": true
+  },
   { 
     "name": "LORA",
     "description": "Documentation of our dear friend and collaborator, Lora.",
