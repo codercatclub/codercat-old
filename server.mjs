@@ -1,39 +1,34 @@
-import express from 'express';
-import path from 'path';
-import fs from 'fs';
+import express from "express";
+import path from "path";
+import fs from "fs";
 
-let rawdata = fs.readFileSync('./constants/projects.json');
-let projects = JSON.parse(rawdata);
+let projects = JSON.parse(fs.readFileSync("./constants/projects.json"));
 
 const codercat = express();
 const port = 8081;
 const __dirname = path.resolve();
 
 // Serve main site static files first
-codercat.use(express.static('out', { extensions: ['html'] }));
+codercat.use(express.static("out", { extensions: ["html"] }));
 
 projects.forEach((app) => {
   const subApp = express();
+  const appRoute = "/" + app.route;
 
-  if (!app.public) {
-    // Skip projects that do not have sub apps
-    return;
-  }
+  // Skip projects that do not have sub apps
+  if (!app.public) return;
 
-  for (let i = 0; i < app.public.length; i += 1) {
-    subApp.use(express.static(app.public[i], { extensions: ['html'] }));
-  }
+  app.public.forEach((path) =>
+    subApp.use(express.static(path, { extensions: ["html"] }))
+  );
 
-  subApp.get('/', (req, res) => {
+  subApp.get("/", (_, res) => {
     res.sendFile(path.join(__dirname, app.entry));
   });
 
-  const appRoute = '/' + app.route;
-
-  console.log('[+] Hosting', app.name, 'under', appRoute);
-
   // Each app will be server on sub-route
   // with its own configuration and set of public assets
+  console.log("[+] Hosting", app.name, "under", appRoute);
   codercat.use(appRoute, subApp);
 });
 
