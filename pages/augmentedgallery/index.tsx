@@ -1,7 +1,84 @@
 import { css, cx } from "@emotion/css";
 import React, { FC, useState } from "react";
 
+const layout = css`
+  display: grid;
+  grid-template-rows: 0.1fr auto;
+  grid-template-columns: 0.2fr 1fr;
+
+  @media (max-width: 768px) {
+    grid-template-rows: 0.1fr auto;
+    grid-template-columns: 1fr 0.08fr;
+    margin: 10px;
+  }
+`;
+
+const menuContainer = css`
+  position: sticky;
+
+  grid-row: 2;
+  grid-column: 1;
+
+  top: 1rem;
+  align-self: start;
+
+  @media (max-width: 768px) {
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column: 2;
+
+    writing-mode: vertical-lr;
+    text-orientation: mixed;
+
+    height: 98vh;
+    width: 40px;
+    padding-left: -17px;
+    overflow-y: scroll;
+    -ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+    overflow-y: scroll; 
+  }
+
+  -webkit-scrollbar {
+    display: none;
+  }
+`;
+
+const sectionList = css`
+  display: flex;
+  flex-direction: column;
+  grid-row: 2;
+  grid-column: 2;
+
+  @media (max-width: 768px) {
+    grid-row: 2;
+    grid-column: 1;
+  }
+`;
+
+const headerContainer = css`
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row: 1;
+  padding: 30px 40px 20px 40px;
+
+  @media (max-width: 768px) {
+    padding: 20px 0 0 0;
+    grid-column-start: 1;
+    grid-column-end: 3;
+  }
+`;
+
 const sectionBlock = css`
+  margin: 0 0 30px 0;
+
+  font-size: 18px;
+  line-height: 24px;
+
+  > h2 {
+    margin: 0 0 20px 0;
+  }
+
   > img {
     object-fit: cover;
     width: 100%;
@@ -22,7 +99,7 @@ const SectionBlock: FC<{ children: JSX.Element | JSX.Element[] }> = ({
 const section = css`
   margin: 30px 0 0 0;
   > h1 {
-    margin: 0 0 10px 0;
+    margin: 0 0 20px 0;
   }
 `;
 
@@ -48,16 +125,7 @@ const Section: FC<{
   </div>
 );
 
-const layout = css`
-  display: grid;
-
-  @media (max-width: 768px) {
-    margin: 10px;
-  }
-`;
-
 const menu = css`
-  position: fixed;
   height: 100%;
   margin: 20px 0 0 0;
   display: flex;
@@ -65,19 +133,23 @@ const menu = css`
   text-transform: uppercase;
   font-size: 18px;
 
+  * {
+    user-select: none;
+  }
+
   > li {
     margin: 3px 0 3px 0;
   }
 
   @media (max-width: 768px) {
     width: 100%;
-    height: 50px;
     flex-direction: row;
-    padding: 10px 0 10px 10px;
+    padding: 20px 0 0px 5px;
     margin: 0;
     top: 0;
     * {
-      margin: 0 15px 0 0;
+      margin: 0 0px 11px 10px;
+      padding: 1px;
     }
   }
 `;
@@ -91,7 +163,7 @@ const menuBtn = css`
 
 const menuBtnActive = css`
   animation-name: flash;
-  animation-duration: 1s;
+  animation-duration: 0.8s;
   animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
 
   @keyframes flash {
@@ -107,27 +179,22 @@ const menuBtnActive = css`
   }
 `;
 
-const sectionList = css`
-  padding-left: 175px;
-  display: flex;
-  flex-direction: column;
-
-  @media (max-width: 768px) {
-    padding: 40px 0 0 0;
-  }
-`;
+const scrollToElement = (el: Element, offset: number) => {
+    const y = el.getBoundingClientRect().top + window.pageYOffset + offset;
+    window.scrollTo({top: y, behavior: 'smooth'});
+}
 
 const Menu: FC<{ sections: string[] }> = ({ sections }) => {
   const [section, setSection] = useState("");
   const [animating, setAnimating] = useState(false);
 
   const menuItems = sections.map((name) => (
-    <li>
+    <li key={name}>
       <div
         key={name}
         className={cx({
           [menuBtn]: true,
-          [menuBtnActive]: (section === name && animating),
+          [menuBtnActive]: section === name && animating,
         })}
         onClick={() => {
           setAnimating(true);
@@ -136,7 +203,7 @@ const Menu: FC<{ sections: string[] }> = ({ sections }) => {
           if (list) {
             Array.from(list).forEach((el) => {
               if (el.id === name) {
-                el.scrollIntoView({ behavior: "smooth" });
+                scrollToElement(el, -30)
               }
             });
           }
@@ -156,20 +223,24 @@ const Menu: FC<{ sections: string[] }> = ({ sections }) => {
 const AugmentedGallery = () => {
   return (
     <div className={layout}>
-      <h1>Augmented Gallery</h1>
+      <div className={headerContainer}>
+        <h1>Augmented Gallery</h1>
+      </div>
 
-      <Menu
-        sections={[
-          "GYROID",
-          "MARINA",
-          "KAMAJI",
-          "ESCAPE",
-          "PHYSICAL",
-          "ST. PETER",
-          "REGENERATE",
-          "PRINTS",
-        ]}
-      />
+      <div className={menuContainer}>
+        <Menu
+          sections={[
+            "GYROID",
+            "MARINA",
+            "KAMAJI",
+            "ESCAPE",
+            "PHYSICAL",
+            "ST. PETER",
+            "REGENERATE",
+            "PRINTS",
+          ]}
+        />
+      </div>
 
       <div className={sectionList} id="section-list">
         <Section header="GYROID">
