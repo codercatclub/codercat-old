@@ -354,7 +354,6 @@ const AugmentedGallery = () => {
             <p> Go with her. </p>
             <p> Go with her. </p>
           </SectionBlock>
-          <SectionBlock></SectionBlock>
         </Section>
         <Section header="PHYSICAL">
           <SectionBlock>
@@ -372,7 +371,6 @@ const AugmentedGallery = () => {
             <img src="augmented/armsd.JPG" />
             <img src="augmented/armsd2.JPG" />
           </SectionBlock>
-          <SectionBlock></SectionBlock>
         </Section>
         <Section header="ST. PETER">
           <SectionBlock>

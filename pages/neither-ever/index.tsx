@@ -1,71 +1,17 @@
 import { css, cx } from '@emotion/css'
 import { useState } from 'react';
-
-const bg = css`
-  display: flex;
-  flex-direction: column;
-  background-color: #0b0b0bfc;
-`;
-
-const title = css`
-  font-size: 20px;
-  color: #fff;
-  z-index: 1;
-
-  @media (max-width: 800px) {
-    font-size: 16px;
-  }
-`
-
-const titleContainer = css`
-  position: absolute;
-  width: 100%;
-  display: flex;
-  /* justify-content: center; */
-  align-items: center;
-  margin: 30px;
-`
-
-const h1 = css`
-  color: #ece9e9;
-  margin: 32px 0 32px 0;
-`;
-
-const vid = css`
-  width: 100vw;
-  height: 100vh;
-  object-fit: cover;
-`;
-
-const secVid = css`
-  max-width: 100%;
-  margin: 10px 0 10px 0;
-`;
-
-const about = css`
-  color: #ffffffed;
-  width: 50%;
-  margin: 30px auto 30px auto;
-
-  @media (max-width: 800px) {
-    width: 90%;
-  }
-`
-
-const par = css`
-  color: #ece9e9;
-  line-height: 18px;
-`
-
-const ln = css`
-  color: #d06dcf;
-  text-decoration: underline;
-`
-
-const credits = css`
-  display: flex;
-  flex-direction: column;
-`
+import {
+  bg,
+  title,
+  titleContainer,
+  h1,
+  vid,
+  secVid,
+  about,
+  par,
+  ln,
+  credits,
+} from "../../css";
 
 export default function Leilani() {
   const [muted, setMuted] = useState(true);
@@ -132,13 +78,13 @@ export default function Leilani() {
           on the wall of our "Air" building, and Leilani's live movements emotional and perfectly in sync with the graphics.
         </p>
         <h1 className={h1}>Credits</h1>
-        <p className={credits}>
-          <div><a className={ln} href="https://www.instagram.com/snayss/" target='_blank'>@snayss</a> - 3D effects</div>
-          <div><a className={ln} href="https://www.instagram.com/helloleilanifranco/" target='_blank'>@helloleilanifranco</a> - dance, motion capture and choreography</div>
-          <div><a className={ln} href="https://www.instagram.com/drmbt/" target='_blank'>@drmbt</a> - projection mapping</div>
-          <div><a className={ln} href="https://www.instagram.com/kif11/" target='_blank'>@kif11</a> - lighting and rendering</div>
-          <div><a className={ln} href="https://mars.college/" target='_blank'>@mars.college</a> - venue</div>
-        </p>
+        <div className={credits}>
+          <div className={par}><a className={ln} href="https://www.instagram.com/snayss/" target='_blank'>@snayss</a> - 3D effects</div>
+          <div className={par}><a className={ln} href="https://www.instagram.com/helloleilanifranco/" target='_blank'>@helloleilanifranco</a> - dance, motion capture and choreography</div>
+          <div className={par}><a className={ln} href="https://www.instagram.com/drmbt/" target='_blank'>@drmbt</a> - projection mapping</div>
+          <div className={par}><a className={ln} href="https://www.instagram.com/kif11/" target='_blank'>@kif11</a> - lighting and rendering</div>
+          <div className={par}><a className={ln} href="https://mars.college/" target='_blank'>@mars.college</a> - venue</div>
+        </div>
       </div>
     </div>
   );
