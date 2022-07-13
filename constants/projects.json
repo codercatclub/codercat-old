@@ -1,5 +1,11 @@
 [
-
+  {
+    "name": "SIROIHA",
+    "description": "Music video for the track Siroiha by Kiki Yago, on set with a Metahuman and filmed in Unreal Engine 5.",
+    "img": "img/projects/siroiha.png",
+    "route": "https://www.youtube.com/watch?v=lD_SNhWDLyI",
+    "published": true
+  },
   {
     "name": "NEITHER EVER, NOR NEVER",
     "description": "Live projection performance made with HoudiniFX and motion captured choreography, in collaboration with Leilani Franco.",
@@ -12,6 +18,13 @@
     "description": "Realtime live-looped motion capture performance made in Unity, in collaboration with Leilani Franco.",
     "img": "img/projects/torn.jpg",
     "route": "torn",
+    "published": true
+  },
+  {
+    "name": "BORN ALONE DIES ALONE",
+    "description": "The ultimate cycle. Our entry to the Rokoko Perfect Loop contest, in collaboration with Leilani Franco and a Metahuman. Filmed in Unreal Engine 5.",
+    "img": "img/projects/bornalonediesalone.png",
+    "route": "https://youtu.be/9fl4uK9xrxI",
     "published": true
   },
   {
