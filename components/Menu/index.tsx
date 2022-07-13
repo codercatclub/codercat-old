@@ -14,7 +14,7 @@ interface MenuProps {
 const Menu: FC<MenuProps> = ({ currentRoute }) => {
 
   const menuItems = [
-    { route: 'https://www.patreon.com/codercat', name: 'Support Us' },
+    { route: '/support', name: 'Support Us' },
     { route: '/about', name: 'About' },
     { route: '/contact', name: 'Contact' },
     { route: '/reel', name: 'Reel' },
@@ -36,7 +36,6 @@ const Menu: FC<MenuProps> = ({ currentRoute }) => {
                 {i.name}
               </a> : <div className={link}>{i.name}</div>}
             </Link>
-
           </li>
         ), this)}
       </ul>

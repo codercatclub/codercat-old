@@ -4,22 +4,6 @@ import Menu from "../components/Menu";
 import SocialIcons from "../components/SocialIcons";
 import { socialIconsUsers } from "../constants";
 
-const people = [
-  {
-    name: 'Sneha',
-    contacts: [
-      { value: 'sbelkhale@gmail.com', type: 'email' }
-    ]
-  },
-  {
-    name: 'Kirill',
-    contacts: [
-      { value: 'kovalewskiy@gmail.com', type: 'email' },
-      { value: '@kif11', type: 'telegram' }
-    ],
-  },
-];
-
 const Contacts = () => (
   <>
     <div className="center-container">
@@ -28,16 +12,13 @@ const Contacts = () => (
       </Head>
       <Menu currentRoute="/contact" />
       <div className="contact-container">
-        {people.map((person) => (
-          <div>
-            <h2>{person.name}</h2>
-            <ul>
-              {person.contacts.map(contact => (
-                <li className="contact-entry">{contact.type}: {contact.value}</li>
-              ))}
-            </ul>
-          </div>
-        ))}
+        <p>For collaboration, feedback or commercial enquiries contact us at</p>
+        <span>
+          <div>Email:</div> <b>codercatclub@gmail.com</b>
+        </span>
+        <span>
+          <div>Telegram:</div> <b>@kif11</b>
+        </span>
       </div>
       <SocialIcons users={socialIconsUsers} />
     </div>
