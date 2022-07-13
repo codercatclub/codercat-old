@@ -59,6 +59,7 @@
 
 .description {
   line-height: 18px;
+  color: black;
 }
 
 @media (max-width: 768px) {
