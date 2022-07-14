@@ -17,7 +17,10 @@ const Contacts = () => (
           <div>Email:</div> <b>codercatclub@gmail.com</b>
         </span>
         <span>
-          <div>Telegram:</div> <b>@kif11</b>
+          <div>Telegram:</div>{" "}
+          <a href="https://t.me/codercatstudio" target="_blank">
+            <b>@codercatstudio</b>
+          </a>
         </span>
       </div>
       <SocialIcons users={socialIconsUsers} />
@@ -25,4 +28,4 @@ const Contacts = () => (
   </>
 );
 
-export default Contacts
+export default Contacts;

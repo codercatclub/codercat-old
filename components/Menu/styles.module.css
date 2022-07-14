@@ -1,6 +1,6 @@
 .menu {
-  display: block;
-  height: 70px;
+  display: flex;
+  flex-direction: column;
   margin-top: 50px;
 }
 
@@ -8,7 +8,6 @@
   display: block;
   float: right;
   margin-right: 10px;
-  margin-top: 36px;
 }
 
 .menuListItem {
@@ -21,10 +20,35 @@
   cursor: pointer;
 }
 
+.dotSpan {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.dot {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(11, 11, 11);
+  border-radius: 50%;
+  margin: 14px;
+}
+
+.arrowDown {
+  border-radius: 0;
+}
+
 @media (max-width: 600px) {
   .menu {
-    margin-top: auto;
-    margin-right: 20px;
+    margin-top: 5px;
+  }
+  .menuList {
+    display: grid;
+    grid-auto-rows: 0.5fr;
+    margin: 0 14px 14px 0;
+  }
+  .menuListItem {
+   text-align: right;
   }
 }
 

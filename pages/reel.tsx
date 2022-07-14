@@ -23,6 +23,11 @@ const list = css`
   * {
     margin: 12px 0 12px 0;
   }
+
+  @media (max-width: 420px) {
+    padding: 10px;
+    margin: 10px;
+  }
 `
 
 const leilaniInsta = "https://www.instagram.com/helloleilanifranco/";
