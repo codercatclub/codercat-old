@@ -1,4 +1,4 @@
-import React, { FC, useState } from "react";
+import React, { FC, useEffect, useState } from "react";
 import Link from "next/link";
 import styles from "./styles.module.css";
 import { css } from "@emotion/css";
@@ -16,7 +16,11 @@ interface MenuProps {
 
 const Menu: FC<MenuProps> = ({ currentRoute }) => {
   const isMobile = useQuery("(min-width: 768px)");
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(true);
+
+  useEffect(() => {
+    if (isMobile) setIsOpen(false);
+  }, [isMobile])
 
   const menuItems = [
     { route: "/support", name: "Support Us" },
