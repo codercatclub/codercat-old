@@ -29,13 +29,13 @@ export default function About() {
             />
           </div>
           <p>
-            We are a group of Computer Graphic enthusiasts, building experiences
+            We are a group of computer enthusiasts, artist, designers building experiences
             in cutting edge fields ranging from Virtual and Augmented Reality to
-            WebVR and procedural animations and generation. Our goal is to bring
-            new perspectives on social issues by using technology and art.
+            WebVR and Procedural Animations and generation. Our goal is to bring
+            new perspectives on social issues and push the limits of creativity though technology and art.
             <br />
             <br />
-            Contact us for any collaborations.
+            <a href="about">Contact</a> us for collaborations.
           </p>
         </div>
         <SocialIcons users={socialIconsUsers} />

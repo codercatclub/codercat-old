@@ -1,13 +1,13 @@
 [
   {
     "name": "SIROIHA",
-    "description": "Music video for the track Siroiha by Kiki Yago, on set with a Metahuman and filmed in Unreal Engine 5.",
+    "description": "Music video for Kiki Yago SIROIHA title. Created on set with a Metahuman and filmed in Unreal Engine 5.",
     "img": "img/projects/siroiha.png",
     "route": "https://www.youtube.com/watch?v=lD_SNhWDLyI",
     "published": true
   },
   {
-    "name": "NEITHER EVER, NOR NEVER",
+    "name": "NEITHER EVER",
     "description": "Live projection performance made with HoudiniFX and motion captured choreography, in collaboration with Leilani Franco.",
     "img": "img/projects/neither-ever.jpg",
     "route": "neither-ever",
@@ -21,7 +21,7 @@
     "published": true
   },
   {
-    "name": "BORN ALONE DIES ALONE",
+    "name": "BORN ALONE",
     "description": "The ultimate cycle. Our entry to the Rokoko Perfect Loop contest, in collaboration with Leilani Franco and a Metahuman. Filmed in Unreal Engine 5.",
     "img": "img/projects/bornalonediesalone.png",
     "route": "https://youtu.be/9fl4uK9xrxI",
@@ -153,7 +153,7 @@
   },
   {
     "name": "MA",
-    "description": "In collaboration with Rachel Bungey. Exploring the japanese concept of MA “the interval which gives shape to the whole”, visually through a VR experience.",
+    "description": "In collaboration with Rachel Bungey. Exploring the japanese concept of MA “the interval which gives shape to the whole”.",
     "img": "img/projects/ma.jpg",
     "entry": "projects/ma/dist/index.html",
     "public": [
@@ -254,7 +254,7 @@
   },
   {
     "name": "STREET SOUNDS",
-    "description": "Encode an audio message into QR codes that can be posted on a wall as a time capsule. Anyone can decode these QRs with an app for iOS or Android.",
+    "description": "Encode an audio message into QR codes that can be posted on a wall as a time capsule.",
     "img": "img/projects/street-sonds.jpg",
     "route": "street-sounds",
     "published": true
@@ -271,8 +271,8 @@
     "published": true
   },
   {
-    "name": "BOX PROJECTED ENVIRONMENT MAPPING",
-    "description": "A contribution to three.js library showing how to get accurate reflections in room environments.",
+    "name": "ENVIRONMENT MAPPING",
+    "description": "Contribution to three.js library showing how to get accurate reflections in room environments.",
     "img": "img/projects/bpcem.jpg",
     "route": "https://threejs.org/examples/?q=envm#webgl_materials_envmaps_parallax",
     "published": true
@@ -330,7 +330,7 @@
   },
   {
     "name": "AURACARIA DREAMS",
-    "description": "An procedurally generated and animated art piece in three.js, inspired by the auracaria plant that we found in Bogota, Colombia.",
+    "description": "An procedurally generated art piece in three.js, inspired by the auracaria plant in Bogota, Colombia.",
     "img": "img/projects/auracaria-dreams.jpg",
     "entry": "projects/auracaria-dreams/public/html/mary.html",
     "public": [

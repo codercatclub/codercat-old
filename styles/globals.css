@@ -9,6 +9,7 @@ body, html {
   font-family: 'Ubuntu Mono', monospace;
   margin: 0;
   padding: 0;
+  font-size: 18px;
 }
 
 h1 {
@@ -42,6 +43,19 @@ hr {
 
 .contact-entry {
   margin-left: 10px;
+}
+
+.contact-container span {
+  display: flex;
+  margin: 0 0 10px 0;
+}
+
+.contact-container span div {
+  margin: 0 8px 0 0;
+}
+
+.support-container {
+  margin: 20px;
 }
 
 @media (max-width: 800px) {

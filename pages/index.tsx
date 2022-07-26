@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <div className="center-container">
         <Head>
-          <title>Codercat Projects</title>
+          <title>Codercat</title>
         </Head>
         <Menu currentRoute="/" />
         <ProjectsList projects={projects.filter((p) => p.published)} />
