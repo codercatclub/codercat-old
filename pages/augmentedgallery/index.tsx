@@ -5,11 +5,14 @@ const layout = css`
   display: grid;
   grid-template-rows: 0.1fr auto;
   grid-template-columns: 0.2fr 1fr;
+  width: 50%;
+  margin: auto;
 
   @media (max-width: 768px) {
     grid-template-rows: 0.1fr auto;
     grid-template-columns: 1fr 0.08fr;
     margin: 10px;
+    width: 100%;
   }
 `;
 
@@ -45,15 +48,7 @@ const menuContainer = css`
 `;
 
 const sectionList = css`
-  display: flex;
-  flex-direction: column;
-  grid-row: 2;
-  grid-column: 2;
 
-  @media (max-width: 768px) {
-    grid-row: 2;
-    grid-column: 1;
-  }
 `;
 
 const headerContainer = css`
@@ -70,13 +65,18 @@ const headerContainer = css`
 `;
 
 const sectionBlock = css`
-  margin: 0 0 30px 0;
-
   font-size: 18px;
   line-height: 24px;
+  display: flex;
+  flex-direction: column;
+  margin: 5px 0 5px 0px;
 
-  > h2 {
-    margin: 0 0 20px 0;
+  h2, h1 {
+    margin: 0 0 0 0 ;
+  }
+
+  p {
+    margin: 0;
   }
 
   > img {
@@ -96,23 +96,11 @@ const SectionBlock: FC<{ children: JSX.Element | JSX.Element[] }> = ({
   children,
 }) => <div className={sectionBlock}>{children}</div>;
 
-const section = css`
-  margin: 30px 0 0 0;
-  > h1 {
-    margin: 0 0 20px 0;
-  }
+const section = css`  
+   h1 {margin: 20px 0 20px 0px;}
 `;
 
 const sectionBody = css`
-  height: 100%;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 20px;
-  margin: 0 0 30px 0;
-
-  @media (max-width: 768px) {
-    grid-template-columns: repeat(1, 1fr);
-  }
 `;
 
 const Section: FC<{
@@ -132,6 +120,7 @@ const menu = css`
   flex-direction: column;
   text-transform: uppercase;
   font-size: 18px;
+      padding: 0 20px 0 20px;
 
   * {
     user-select: none;
@@ -280,12 +269,12 @@ const AugmentedGallery = () => {
             <img src="augmented/CLAWS.JPG" />
           </SectionBlock>
           <SectionBlock>
-            <img src="augmented/shoes.JPG" />
             <h2>THE WALLS</h2>
             <p>
               The walls started pulsating into us, overlapping, alternating, she
               stood up to dance between them.
             </p>
+            <img src="augmented/shoes.JPG" />
           </SectionBlock>
           <SectionBlock>
             <h2>STRAY</h2>
@@ -314,13 +303,14 @@ const AugmentedGallery = () => {
           </SectionBlock>
           <SectionBlock>
             <h2>GATHER</h2>
-            <h2>ORGANIZE</h2>
             <img src="augmented/kamaji4.JPG" />
           </SectionBlock>
           <SectionBlock>
+          <h2>ORGANIZE</h2>
             <img src="augmented/kamaji2.JPG" />
           </SectionBlock>
           <SectionBlock>
+          <h2>DANCE</h2>
             <img src="augmented/kamaji3.JPG" />
           </SectionBlock>
           <SectionBlock>

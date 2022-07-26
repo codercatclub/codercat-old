@@ -1,35 +1,38 @@
 
 .img {
-  max-width: 50%;
 }
 
 .video {
-  max-width: 50%;
 }
 
 .text {
-  display: inline-block;
-  max-width: 40%;
-  padding: 10px;
   color: white;
   font-size: 20px;
   font-family:serif;
-
+  text-align: center;
+  margin: 10px 0 10px 0;
 }
 
 .title {
-  max-width: 100%;
   color: white;
   font-size: 100px;
   font-family:serif;
+  text-align: center;
+  margin: 10px 0 10px 0;
 }
 .titlesmall {
-  max-width: 100%;
   color: white;
   font-size: 30px;
   font-family:serif;
+  text-align: center;
+  margin: 10px 0 10px 0;
 }
 .center {
+  display: flex;
+  flex-direction: column;
+  max-width: 50%;
+  margin: auto;
+}
+.container {
   background-color: black;
-  margin: 0px auto 150px auto;
 }

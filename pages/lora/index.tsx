@@ -11,12 +11,13 @@ const Img: FC<{ src: string }> = ({ src }) => (
 
 const Lora = () => (
   <>
+  <div className={s.container}>
     <div className={s.center}>
       <div className={s.title}>
         LORA
       </div>
       <div className={s.titlesmall}>
-        Hello Lora, please update your digital asset to the latest version.
+        Hello Lora ( i luv u ), please update your digital asset to the latest version.
       </div>
       <Vid src="lora/2021-10-15_21-21-27.mp4" />
       <Vid src="lora/2021-10-16_11-50-55.mp4" />
@@ -97,6 +98,7 @@ const Lora = () => (
       <Img src="lora/firefox_Zj5oesDEDB.jpg" />
       <Img src="lora/HighresScreenshot00005.jpg" />
       <Vid src="lora/footshot.mp4" />
+    </div>
     </div>
   </>
 );
