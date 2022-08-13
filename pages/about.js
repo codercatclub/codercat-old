@@ -31,11 +31,10 @@ export default function About() {
           <p>
             We are a group of computer enthusiasts, artist, designers building experiences
             in cutting edge fields ranging from Virtual and Augmented Reality to
-            WebVR and Procedural Animations and generation. Our goal is to bring
-            new perspectives on social issues and push the limits of creativity though technology and art.
+            WebVR and Procedural Animations and generation. Our goal is to question physical reality and push the limits of creativity though technology and art.
             <br />
             <br />
-            <a href="about">Contact</a> us for collaborations.
+            <a href="/contact">Contact</a> us for collaborations.
           </p>
         </div>
         <SocialIcons users={socialIconsUsers} />
