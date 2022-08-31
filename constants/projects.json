@@ -1,8 +1,22 @@
 [
   {
+    "name": "KIKI'S CYBER CLOSET",
+    "description": "An NFT Collection holding outfits worn by the musician and poetess Kiki Yago in her music videos.",
+    "img": "img/projects/cyber-closet.jpg",
+    "route": "https://opensea.io/collection/kikiyagocybercloset",
+    "published": true
+  },
+  {
+    "name": "DRAW ALL THE THINGS",
+    "description": "First attempt to draw all the things. Made with Elixir and Phoenix.",
+    "img": "img/projects/dat.jpg",
+    "route": "https://drawallthethings.com",
+    "published": true
+  },
+  {
     "name": "SIROIHA",
     "description": "Music video for Kiki Yago SIROIHA title. Created on set with a Metahuman and filmed in Unreal Engine 5.",
-    "img": "img/projects/siroiha.png",
+    "img": "img/projects/siroiha.jpg",
     "route": "https://www.youtube.com/watch?v=lD_SNhWDLyI",
     "published": true
   },
