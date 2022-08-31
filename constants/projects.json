@@ -1,5 +1,19 @@
 [
   {
+    "name": "YA KIKI",
+    "description": "Music video for Kiki Yago's YA KIKI title. Princessa, Gadgetessa, whispering her sweet cyber mantras in Unreal Engine 5.",
+    "img": "img/projects/ya-kiki.jpg",
+    "route": "ya-kiki",
+    "published": true
+  },
+  {
+    "name": "UTRO",
+    "description": "Music video for Kiki Yago's UTRO title. A Metahuman trying to wake up from a dream in Unreal Engine 5.",
+    "img": "img/projects/utro.jpg",
+    "route": "https://www.youtube.com/watch?v=3eRPlSnXnGA",
+    "published": true
+  },
+  {
     "name": "KIKI'S CYBER CLOSET",
     "description": "An NFT Collection holding outfits worn by the musician and poetess Kiki Yago in her music videos.",
     "img": "img/projects/cyber-closet.jpg",
@@ -15,7 +29,7 @@
   },
   {
     "name": "SIROIHA",
-    "description": "Music video for Kiki Yago SIROIHA title. Created on set with a Metahuman and filmed in Unreal Engine 5.",
+    "description": "Music video for Kiki Yago's SIROIHA title. Created on set with a Metahuman and filmed in Unreal Engine 5.",
     "img": "img/projects/siroiha.jpg",
     "route": "https://www.youtube.com/watch?v=lD_SNhWDLyI",
     "published": true
