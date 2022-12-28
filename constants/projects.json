@@ -1,5 +1,19 @@
 [
   {
+    "name": "STREAM",
+    "description": "Music video for Kiki Yago's STR3AM title. You wake up in her glitch swamp, and the rest is a blur.",
+    "img": "img/projects/stream.jpg",
+    "route": "https://www.youtube.com/watch?v=nM1e2lYzPbk",
+    "published": true
+  },
+  {
+    "name": "EMERALD",
+    "description": "Music video fo Emerald by Kostadis made in Unreal Engine 5. Transporting to a sensual dreamscape.",
+    "img": "img/projects/emerald.jpg",
+    "route": "https://www.youtube.com/watch?v=OZCMDN57V_U",
+    "published": true
+  },
+  {
     "name": "YA KIKI",
     "description": "Music video for Kiki Yago's YA KIKI title. Princessa, Gadgetessa, whispering her sweet cyber mantras in Unreal Engine 5.",
     "img": "img/projects/ya-kiki.jpg",
