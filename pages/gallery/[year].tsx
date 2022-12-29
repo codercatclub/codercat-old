@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import React, { FC, useState } from "react";
 import { css } from "@emotion/css";
 import path from "path";
 import fs from "fs";
@@ -8,12 +8,11 @@ import * as A from "fp-ts/Array";
 import * as E from "fp-ts/Either";
 import * as N from "fp-ts/number";
 
-const gridElementSize = "200px";
+const gridElementSize = "256px";
 
 const container = css`
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(${gridElementSize}, 1fr));
-  /* grid-gap: 1px; */
 `;
 
 const item = css`
@@ -24,41 +23,75 @@ const item = css`
   height: ${gridElementSize};
 `;
 
-const image = css`
-  display: block;
-  max-width: 100%;
-  object-fit: cover;
+const popupStyle = css`
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
   width: 100%;
   height: 100%;
+  z-index: 100;
+  background-color: white;
+  object-fit: contain;
 `;
 
 interface Props {
   images: Image[];
 }
 
-const MediaItem: FC<{ img: Image }> = ({img}) => {
-  switch (img.uri.split(".").pop()) {
-    case 'webp':
-    case 'jpg':
-      return <img src={img.uri} alt={img.uri} className={image} />
+const MediaItem: FC<{ uri: string; fit: string }> = ({ uri, fit }) => {
+  const image = css`
+    display: block;
+    max-width: 100%;
+    object-fit: ${fit};
+    width: 100%;
+    height: 100%;
+  `;
 
-    case 'mp4':
-      return <video src={img.uri} className={image} controls />
-  
+  switch (uri.split(".").pop()) {
+    case "webp":
+    case "jpg":
+      return <img src={uri} alt={uri} className={image} />;
+
+    case "mp4":
+      return <video src={uri} className={image} controls />;
+
     default:
-      return <video src={img.uri} className={image} controls />
+      return <video src={uri} className={image} controls />;
   }
-}
+};
 
 const Gallery: FC<Props> = ({ images }) => {
+  const [popup, setPopup] = useState(false);
+  const [popupURI, setPopupURI] = useState("");
+
   const imagesEl = images.map((i, idx) => (
-    <div className={item} key={idx}>
-      <MediaItem img={i} />
+    <div
+      className={item}
+      key={idx}
+      onClick={() => {
+        setPopup((prev) => !prev);
+        setPopupURI(i.uri);
+      }}
+    >
+      <MediaItem uri={i.uri} fit={"cover"} />
     </div>
   ));
 
   return (
     <>
+      {popup ? (
+        <div
+          className={popupStyle}
+          onClick={() => {
+            setPopup((prev) => !prev);
+            setPopupURI("");
+          }}
+        >
+          <MediaItem uri={popupURI} fit={"contain"} />
+        </div>
+      ) : null}
       <div className={container}>{imagesEl}</div>
     </>
   );

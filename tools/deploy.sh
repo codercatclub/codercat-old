@@ -5,16 +5,16 @@ export CODERCAT_SERVER_URL="https://codercat.tk"
 yarn build
 
 # Sync static codercat build
-rsync -av out/ kiko@codercat.tk:~/codercat/out/
+rsync -av -e "ssh -p 38323" out/ kiko@codercat.tk:~/codercat/out/
 
 # Sync the server
-rsync -av server.mjs kiko@codercat.tk:~/codercat/server.mjs
+rsync -av -e "ssh -p 38323" server.mjs kiko@codercat.tk:~/codercat/server.mjs
 
 # Sync projec list
-rsync -av constants/projects.json kiko@codercat.tk:~/codercat/constants/projects.json
+rsync -av -e "ssh -p 38323" constants/projects.json kiko@codercat.tk:~/codercat/constants/projects.json
 
 # Sync package.json to install server dependencies
-rsync -av package.json kiko@codercat.tk:~/codercat/package.json
+rsync -av -e "ssh -p 38323" package.json kiko@codercat.tk:~/codercat/package.json
 
 # Install dependencies (One time only)
 # NOTE: Do it manually e.g.
@@ -23,4 +23,7 @@ rsync -av package.json kiko@codercat.tk:~/codercat/package.json
 # yarn
 
 # Restart the server
-ssh -t kiko@codercat.tk sudo systemctl restart codercat
+ssh -t codercat sudo systemctl restart codercat
+
+# Remove artifacts
+rm -rf out
