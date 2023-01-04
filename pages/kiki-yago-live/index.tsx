@@ -30,7 +30,7 @@ export default function KikiYago() {
       <div className={about}>
         <h1 className={h1}>About</h1>
 
-        <p className={par}>
+        <div className={par}>
           Kiki Yago Live, a realtime face capture and musical performance that was exhibited in 5 different venues in Tbilisi.
           We explored live stage visuals in Unreal Engine 5, bringing a metahuman to life with the facial expressions of the live performing
           {" "}<a
@@ -40,10 +40,10 @@ export default function KikiYago() {
           >
             Xenofontova Dasha
           </a>{" "}.
-        </p>
+        </div>
 
 
-        <p className={par}>
+        <div className={par}>
           Over the previous 6 months, Dasha and Codercat had been developing the Kiki Yago project. Kiki Yago is a poetess, who creates music and
           casts high speed spells to actively use the multidimensionality of our mind. She presents the feeling of being uploaded to the Metaverse
           and recieving every fragment of information in just a few milliseconds.
@@ -70,7 +70,7 @@ export default function KikiYago() {
             here
           </a>!
 
-        </p>
+        </div>
 
         <video
           className={secVid}
@@ -82,7 +82,7 @@ export default function KikiYago() {
           Dasha and Kiki meet in person for the first time, at Cyber Camp in Tbilisi.
         </div>
         <br></br>
-        <p className={par}>
+        <div className={par}>
           After 6 months of collaborating remotely, we were overwhelmed with excitement when
           Dasha said she would come stay with us in Tbilisi Georgia, for a 3 month cyber camp! The idea was to spend 3 months living, creating, playing, and working together -- with a focus on developing the first live
           concert/performance of Kiki Yago!
@@ -169,7 +169,7 @@ export default function KikiYago() {
           <br></br>
           After two weeks of rehearsals and building on our VJ setup, we were ready to hit the venues of Tbilisi:) We played 5 shows, some under bridges, some in basements,
           and some in strange party houses far away from the city. We cheers with some cha-cha, and brought our energy to each show. Best team ever, and we can't wait to reunite:)
-        </p>
+        </div>
 
         <img className={secVid} src="kikiyago/stage.jpg"></img>
         <div className={caption}>
