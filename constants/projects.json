@@ -1,8 +1,8 @@
 [
   {
     "name": "KIKI YAGO LIVE",
-    "description": "Music performance with the poetess Kiki Yago, and a window into her metaverse with live face tracked visuals in Unreal Engine.",
-    "img": "img/projects/neither-ever.jpg",
+    "description": "Music performance with the poetess Kiki Yago, and a window into her metaverse with live face tracked visuals in Unreal Engine 5.",
+    "img": "img/projects/kikiyagolive.jpg",
     "route": "kiki-yago-live",
     "published": true
   },

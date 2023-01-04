@@ -25,7 +25,7 @@ export default function KikiYago() {
         </h1>
       </div>
       <video className={vid} autoPlay muted={muted} playsInline loop controls>
-        <source src="leilani/mocap1.mp4" type="video/mp4"></source>
+        <source src="kikiyago/reel.mp4" type="video/mp4"></source>
       </video>
       <div className={about}>
         <h1 className={h1}>About</h1>
@@ -51,7 +51,7 @@ export default function KikiYago() {
           <video
             className={secVid}
             src="kikiyago/Meditation3.mp4"
-            title="Live Looping Mocap Controller"
+            title="kikiyago"
             controls
           ></video>
           <div className={caption}>
@@ -75,7 +75,7 @@ export default function KikiYago() {
         <video
           className={secVid}
           src="kikiyago/rehearsals.mp4"
-          title="Live Looping Mocap Controller"
+          title="kikiyago"
           controls
         ></video>
         <div className={caption}>
