@@ -47,7 +47,13 @@ export const about = css`
     width: 90%;
   }
 `;
-
+export const caption = css`
+  color: grey;
+  width: 50%;
+  font-size: 16px;
+  margin: 1px auto 1px auto;
+  text-align: center;
+`;
 export const par = css`
   color: #ece9e9;
   line-height: 24px;

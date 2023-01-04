@@ -1,5 +1,12 @@
 [
   {
+    "name": "KIKI YAGO LIVE",
+    "description": "Music performance with the poetess Kiki Yago, and a window into her metaverse with live face tracked visuals in Unreal Engine.",
+    "img": "img/projects/neither-ever.jpg",
+    "route": "kiki-yago-live",
+    "published": true
+  },
+  {
     "name": "STREAM",
     "description": "Music video for Kiki Yago's STR3AM title. You wake up in her glitch swamp, and the rest is a blur.",
     "img": "img/projects/stream.jpg",
