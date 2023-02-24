@@ -1,11 +1,12 @@
-import React, { FC, useState } from "react";
+import React, { FC } from "react";
 import { css } from "@emotion/css";
-import { pipe, flow, identity } from "fp-ts/function";
-import { Image, readAndDecode, sortChronological, filterByYear, postsToImages, postPath } from "./utils";
+import { pipe, flow } from "fp-ts/function";
+import { Image, readAndDecode, sortChronological, filterByYear, postsToImages, postPath } from "../../utils/server";
 import * as A from "fp-ts/Array";
 import * as E from "fp-ts/Either";
 import * as N from "fp-ts/number";
 import MediaItem from "../../components/Gallery/MediaItem";
+import { idFromUri } from "./post/[id]";
 
 const gridElementSize = "256px";
 
@@ -39,12 +40,8 @@ interface Props {
 const Gallery: FC<Props> = ({ images }) => {
   const imagesEl = images.map((i, idx) => (
     <div className={item} key={idx}>
-      <a href={`post/${i.uri.split("/").slice(-2).join("-")}`}>
-        <MediaItem
-          uri={i.uri}
-          title={i.title}
-          fit={"cover"}
-        />
+      <a href={"post/" + idFromUri(i.uri)}>
+        <MediaItem uri={i.uri} title={i.title} fit={"cover"} />
       </a>
     </div>
   ));
@@ -60,7 +57,7 @@ export async function getStaticProps({ params }: { params: { year: string } }) {
   const images = pipe(
     readAndDecode(postPath),
     E.map(flow(postsToImages, filterByYear(params.year), sortChronological)),
-    E.foldW(console.log, identity)
+    E.getOrElse(() => [] as Image[])
   );
 
   return {
@@ -68,6 +65,10 @@ export async function getStaticProps({ params }: { params: { year: string } }) {
       images,
     },
   };
+}
+
+interface StaticPaths {
+  params: { year: string };
 }
 
 export async function getStaticPaths() {
@@ -81,7 +82,10 @@ export async function getStaticPaths() {
         A.map((i) => ({ params: { year: i.toString() } }))
       )
     ),
-    E.foldW(console.log, identity)
+    E.getOrElse((e) => {
+      console.log("[-] Error: ", e);
+      return [] as StaticPaths[];
+    })
   );
 
   return {

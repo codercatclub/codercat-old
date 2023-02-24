@@ -5,7 +5,7 @@ import * as A from "fp-ts/Array";
 import * as O from "fp-ts/Option";
 import * as E from "fp-ts/Either";
 import * as S from "fp-ts/string";
-import { Image, readAndDecode, sortChronological, filterByYear, postsToImages, postPath } from "../utils";
+import { Image, readAndDecode, postsToImages, postPath, defaultImage } from "../../../utils/server";
 import MediaItem from "../../../components/Gallery/MediaItem";
 
 interface Props {
@@ -19,6 +19,12 @@ const container = css`
   align-items: center;
   height: 100vh;
 `;
+
+export const idFromUri = (uri: string): string => {
+  const n = uri.split("/").pop();
+  const id = n?.split(".")[0];
+  return id || "";
+};
 
 const Post: FC<Props> = ({ image }) => {
   return (
@@ -39,11 +45,8 @@ export async function getStaticProps({ params }: StaticProps) {
     E.map(
       flow(
         postsToImages,
-        A.findFirst((i) => i.uri.endsWith(params.id.replace("-", "/"))),
-        O.foldW(
-          () => "no result", // onNone handler
-          (head) => head
-        )
+        A.findFirst((i) => (idFromUri(i.uri) === params.id)),
+        O.getOrElse(() => (defaultImage))
       )
     ),
     E.foldW(console.log, identity)
@@ -62,10 +65,7 @@ export async function getStaticPaths() {
     E.map(
       flow(
         postsToImages,
-        A.map((i) => {
-          const id = i.uri.split("/").slice(-2).join("-");
-          return id || "";
-        }),
+        A.map((i) => idFromUri(i.uri)),
         A.uniq(S.Eq),
         A.map((i) => ({ params: { id: i } }))
       )

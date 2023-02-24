@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e
+
 export CODERCAT_SERVER_URL="https://codercat.tk"
 
 yarn build
