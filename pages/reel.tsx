@@ -11,7 +11,7 @@ const reel = css`
 `
 
 const ttl = css`
-  font-weight: bold;
+  /* font-weight: bold; */
 `
 
 const section = css`
@@ -27,6 +27,7 @@ const ln = css`
 `
 
 const timeLink = css`
+  text-decoration: underline;
   :hover {
     cursor: pointer;
   }
@@ -76,6 +77,8 @@ const Reel = () => {
   const v1 = React.createRef<HTMLVideoElement>();
   const v2 = React.createRef<HTMLVideoElement>();
 
+  const kikiYago = <a className={ln} href="https://www.instagram.com/kiki_yago/" target="_blank">Kiki Yago</a>;
+
   return <>
     <div className="center-container">
       <Head>
@@ -90,13 +93,13 @@ const Reel = () => {
               <span> - Environment concept for Sci-Fi serries made in UE5</span>
           </TimeLink>
           <TimeLink time="00:05" title="Mother Taiga" link="https://vimeo.com/793712067" videoRef={v2}>
-              <span> - Music video for Kiki Yago</span>
+              <span> - Music video for {kikiYago}</span>
           </TimeLink>
           <TimeLink time="00:19" title="Stream" link="https://vimeo.com/793708930" videoRef={v2}>
-              <span> - Music video for Kiki Yago made in UE5</span>
+              <span> - Music video for {kikiYago} made in UE5</span>
           </TimeLink>
           <TimeLink time="00:39" title="Siroiha" link="https://vimeo.com/793687207" videoRef={v2}>
-              <span> - Music video for Kiki Yago using Metahuman, UE5 and HoudiniFX</span>
+              <span> - Music video for {kikiYago} using Metahuman, UE5 and HoudiniFX</span>
           </TimeLink>
           <TimeLink time="00:56" title="Torn" link="/torn" videoRef={v2}>
               <span>  - Collaboration with <a className={ln} href={leilaniInsta}>Leilani Franco</a> utilizing real time motion capture with Rokoko and Unity.</span>
@@ -117,6 +120,7 @@ const Reel = () => {
               <span> - Live performance using procedurally driven Metahuman rig for <a className={ln} href="https://mars.college/" target="_blank">Mars College</a></span>
           </TimeLink>
         </ol>
+        Soundtrack by <a className={ln} href="https://www.youtube.com/@kostadism" target="_blank">KOSTADIS MICHAIL</a>
       </div>
 
       <div className={section}>
