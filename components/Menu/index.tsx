@@ -27,7 +27,7 @@ const Menu: FC<MenuProps> = ({ currentRoute }) => {
     { route: "/about", name: "About" },
     { route: "/contact", name: "Contact" },
     { route: "/gallery/2022", name: "Gallery" },
-    { route: "/reel", name: "Reel" },
+    { route: "/reel", name: "Reels" },
     { route: "/", name: "Projects" },
   ];
 
