@@ -1,5 +1,12 @@
 [
   {
+    "name": "DIGITAL CIRCUS",
+    "description": "Collab with motion capture artist Leilani Franco.",
+    "img": "img/projects/digital_circus.jpg",
+    "route": "https://www.digitalcirc.us",
+    "published": true
+  },
+  {
     "name": "KIKI LIVE",
     "description": "Music performance with the poetess Kiki Yago, and a window into her metaverse with live face tracked visuals in Unreal Engine 5.",
     "img": "img/projects/kikiyagolive.jpg",
